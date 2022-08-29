@@ -1,0 +1,27 @@
+<!--
+Authors: Remi Denise, Sophie Abby
+Copyright: 2014-2022 Institut Pasteur Paris, CNRS
+See the COPYRIGHT file for details
+This file is a part of TXSScan package.
+TXSScan is a package of models for macyfinder
+(https://github.com/gem-pasteur/macsyfinder)
+TXSSCan is distributed under the terms of
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+see LICENCE file ship with the package or visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+for more details.
+-->
+
+<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="6" multi_loci="0" vers="2.0">
+
+    <gene name="Tad_rcpA" presence="mandatory"/>    	
+    <gene name="Tad_tadA" presence="mandatory"/>
+    <gene name="Tad_tadB" presence="mandatory"/>
+    <gene name="Tad_tadC" presence="mandatory"/>
+    <gene name="Tad_tadV" presence="mandatory"/>
+    <gene name="Tad_tadZ" presence="mandatory"/>
+    <gene name="Tad_flp" presence="accessory"/>
+    <gene name="Tad_tadE" presence="accessory"/>
+    <gene name="Tad_tadF" presence="accessory"/>
+
+</model>

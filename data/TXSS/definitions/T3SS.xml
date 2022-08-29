@@ -1,0 +1,34 @@
+<!--
+Authors: Remi Denise, Sophie Abby
+Copyright: 2014-2022 Institut Pasteur Paris, CNRS
+See the COPYRIGHT file for details
+This file is a part of TXSScan package.
+TXSScan is a package of models for macyfinder
+(https://github.com/gem-pasteur/macsyfinder)
+TXSSCan is distributed under the terms of
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+see LICENCE file ship with the package or visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+for more details.
+-->
+
+<model inter_gene_max_space="10" min_mandatory_genes_required="7" min_genes_required="7" multi_loci="1" vers="2.0">
+    <gene name="T3SS_sctC" presence="mandatory">        
+        <exchangeables>
+    	    <gene name="T2SS_gspD"/>
+    	    <gene name="T4P_pilQ"/>
+    	    <gene name="Tad_rcpA"/>
+        </exchangeables>
+    </gene>
+    <gene name="T3SS_sctJ" presence="mandatory"/>       
+    <gene name="T3SS_sctN" presence="mandatory"/>       
+    <gene name="T3SS_sctQ" presence="mandatory"/>  
+    <gene name="T3SS_sctR" presence="mandatory"/>    
+    <gene name="T3SS_sctS" presence="mandatory"/>    
+    <gene name="T3SS_sctT" presence="mandatory"/>    
+    <gene name="T3SS_sctU" presence="mandatory"/>    
+    <gene name="T3SS_sctV" presence="mandatory"/>    
+    <gene name="Flg_fliE" presence="forbidden"/>
+    <gene name="Flg_flgB" presence="forbidden"/>
+    <gene name="Flg_flgC" presence="forbidden"/>
+</model>

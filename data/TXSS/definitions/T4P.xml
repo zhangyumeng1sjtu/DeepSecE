@@ -1,0 +1,34 @@
+<!--
+Authors: Remi Denise, Sophie Abby
+Copyright: 2014-2022 Institut Pasteur Paris, CNRS
+See the COPYRIGHT file for details
+This file is a part of TXSScan package.
+TXSScan is a package of models for macyfinder
+(https://github.com/gem-pasteur/macsyfinder)
+TXSSCan is distributed under the terms of
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+see LICENCE file ship with the package or visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+for more details.
+-->
+
+<model inter_gene_max_space="5" min_mandatory_genes_required="7" min_genes_required="7" multi_loci="1" vers="2.0">
+    <gene name="T4P_pilAE" presence="mandatory"/>
+    <gene name="T4P_pilI_pilV" presence="mandatory"/>
+    <gene name="T4P_pilB" presence="mandatory"/>       
+    <gene name="T4P_pilC" presence="mandatory"/>       
+    <gene name="T4P_pilO" presence="mandatory"/>       
+    <gene name="T4P_pilQ" presence="mandatory"/>       
+    <gene name="T4P_pilM" presence="mandatory"/>     
+    <gene name="T4P_pilN" presence="mandatory"/> 
+    <gene name="T4P_pilP" presence="mandatory"/>      
+    <gene name="T4P_pilT_pilU" presence="mandatory" loner="1"/>    
+    <gene name="T4P_pilD" presence="accessory">       
+        <exchangeables>
+    	    <gene name="T2SS_gspO"/>
+        </exchangeables>
+    </gene> 
+    <gene name="T2SS_gspC" presence="forbidden"/> 
+    <gene name="T2SS_gspN" presence="forbidden"/> 
+    <gene name="Tad_tadZ" presence="forbidden"/> 
+</model>
