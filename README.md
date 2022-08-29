@@ -42,6 +42,7 @@ While we have not tested with other versions, any reasonably recent versions of 
 As a prerequisite, you must have PyTorch installed. It is recommended to create a new virtual environment for installation. For model training and prediction from seperate protein sequence(s), You can use this one-liner for installation.
 
 ```shell
+pip install DeepSecE==0.1.0 # OR
 pip install git+https://github.com/zhangyumeng1sjtu/DeepSecE.git
 ```
 
