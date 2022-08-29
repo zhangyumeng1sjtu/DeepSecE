@@ -17,7 +17,7 @@ setup(
         'torch',
         'biopython',
         'einops',
-        'fair_esm',
+        'fair-esm',
         'tqdm',
         'numpy',
         'scikit-learn',
@@ -25,6 +25,6 @@ setup(
         'seaborn',
         'tensorboardX',
         'umap-learn',
-        'warmup_scheduler',
+        'warmup-scheduler',
     ]
 )
