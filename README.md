@@ -14,8 +14,8 @@ We choose various model architecture with different pre-trained models and train
 |          /          |           PSSM+CNN           |      0.799      |      0.822      |      0.712      |      0.724      |      0.752      |      0.774      |
 |      TAPEBert      |        Linear probing        |      0.816      |      0.838      |      0.764      |      0.770      |      0.802      |      0.822      |
 |       ESM-1b       |        Linear probing        |      0.876      |      0.870      |      0.841      |      0.810      |      0.880      |      0.871      |
-|       ESM-1b       |          Finetuning          |      0.878      |      0.850      |      0.846      |      0.808      |      0.887      | **0.883** |
-|       ESM-1b       | Effector-specific transformer | **0.883** | **0.898** | **0.848** | **0.849** | **0.892** |      0.879      |
+|       ESM-1b       |          Finetuning          |      0.878      |      0.850      |      0.846      |      0.808      |      0.887      | 0.883 |
+|       ESM-1b       | Effector-specific transformer | **0.883** | **0.898** | **0.848** | **0.849** | **0.892** |      **0.885**      |
 
 ## Set up
 
