@@ -1,6 +1,6 @@
 # DeepSecE
 
-Implementation of Effector-specific Transformer model used in secretion effector prediction in Gram-negative bacteria. DeepSecE achieves state-of-the-art performance in multi-class effector prediction leveraging the power of  pre-trained protein language model [ESM-1b](https://github.com/facebookresearch/esm). An additional transformer layer enhances the understanding of secreted patterns. It also provide a rapid pipeline to identify type I-IV and VI secretion systems with corresponding effectors.
+Implementation of Effector-specific Transformer model used in secretion effector prediction in Gram-negative bacteria. DeepSecE achieves state-of-the-art performance in multi-class effector prediction leveraging the power of  pre-trained protein language model [ESM-1b](https://github.com/facebookresearch/esm). An additional transformer layer enhances the understanding of secreted patterns. It also provides a rapid pipeline to identify type I-IV and VI secretion systems with corresponding effectors.
 
 ![](summary.png)
 
