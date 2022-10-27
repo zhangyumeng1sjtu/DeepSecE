@@ -1,0 +1,855 @@
+assembly,TXSS/T1SS,TXSS/T2SS,TXSS/T3SS,TXSS/T4SS,TXSS/T6SS,Genome Name,Phylum,Class,Order,Family,Genus,Species,Assembly Accession,CDS
+GCA_000005845,0,1,0,0,0,Escherichia coli str. K-12 substr. MG1655,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000005845.2,4549
+GCA_000006645,2,0,1,0,4,Yersinia pestis KIM10+,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,GCA_000006645.1,4567
+GCA_000006685,0,0,1,0,0,Chlamydia muridarum Nigg,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia muridarum,GCA_000006685.1,992
+GCA_000006725,0,0,0,1,0,Xylella fastidiosa 9a5c,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,GCA_000006725.1,3018
+GCA_000006745,1,1,0,0,1,Vibrio cholerae O1 biovar El Tor str. N16961,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,GCA_000006745.1,3721
+GCA_000006765,4,2,2,0,3,Pseudomonas aeruginosa PAO1,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,GCA_000006765.1,5836
+GCA_000006905,2,1,0,1,0,Caulobacter crescentus CB15,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,GCA_000006905.1,3765
+GCA_000006925,0,0,1,0,0,Shigella flexneri 2a str. 301,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,GCA_000006925.2,5527
+GCA_000006945,2,0,2,0,1,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000006945.1,4972
+GCA_000006965,3,0,0,1,0,Sinorhizobium meliloti 1021,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti,GCA_000006965.1,6489
+GCA_000007025,1,0,0,0,0,Rickettsia conorii str. Malish 7,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia conorii,GCA_000007025.1,1578
+GCA_000007105,1,0,0,0,0,Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Zymomonadaceae,Zymomonas,Zymomonas mobilis,GCA_000007105.1,1904
+GCA_000007125,0,0,0,1,0,Brucella melitensis bv. 1 str. 16M,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella melitensis,GCA_000007125.1,3499
+GCA_000007145,0,1,1,1,0,Xanthomonas campestris pv. campestris str. ATCC 33913,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas campestris,GCA_000007145.1,4553
+GCA_000007165,1,1,1,2,1,Xanthomonas axonopodis pv. citri str. 306,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas citri,GCA_000007165.1,4623
+GCA_000007385,2,0,1,0,2,Xanthomonas oryzae pv. oryzae KACC 10331,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas oryzae,GCA_000007385.1,5118
+GCA_000007505,0,0,0,1,0,Brucella suis 1330,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella suis,GCA_000007505.1,3432
+GCA_000007545,2,0,2,0,1,Salmonella enterica subsp. enterica serovar Typhi str. Ty2,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000007545.1,5017
+GCA_000007565,4,0,0,0,3,Pseudomonas putida KT2440,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,GCA_000007565.1,5777
+GCA_000007605,0,0,1,0,0,Chlamydophila caviae GPIC,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia caviae,GCA_000007605.1,1067
+GCA_000007705,4,1,1,0,1,Chromobacterium violaceum ATCC 12472,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Chromobacterium,Chromobacterium violaceum,GCA_000007705.1,4327
+GCA_000007765,0,0,0,1,0,Coxiella burnetii RSA 493,Proteobacteria,Gammaproteobacteria,Legionellales,Coxiellaceae,Coxiella,Coxiella burnetii,GCA_000007765.1,2132
+GCA_000007805,1,0,1,2,2,Pseudomonas syringae pv. tomato str. DC3000,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae group genomosp. 3,GCA_000007805.1,5890
+GCA_000007985,1,0,0,0,0,Geobacter sulfurreducens PCA,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sulfurreducens,GCA_000007985.2,3473
+GCA_000008045,1,0,0,0,0,Rickettsia typhi str. Wilmington,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia typhi,GCA_000008045.1,892
+GCA_000008145,0,0,0,1,0,Brucella abortus bv. 1 str. 9-941,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella abortus,GCA_000008145.1,3476
+GCA_000008465,0,1,0,0,0,Idiomarina loihiensis L2TR,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Idiomarina,Idiomarina loihiensis,GCA_000008465.1,2650
+GCA_000008485,0,1,0,2,0,Legionella pneumophila subsp. pneumophila str. Philadelphia 1,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella pneumophila,GCA_000008485.1,3212
+GCA_000008725,0,0,1,0,0,Chlamydia trachomatis D/UW-3/CX,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia trachomatis,GCA_000008725.1,968
+GCA_000008745,0,0,1,0,0,Chlamydophila pneumoniae CWL029,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia pneumoniae,GCA_000008745.1,1174
+GCA_000008865,1,1,2,0,1,Escherichia coli O157:H7 str. Sakai,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000008865.1,5602
+GCA_000008985,0,0,0,0,2,Francisella tularensis subsp. tularensis SCHU S4,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,GCA_000008985.1,2097
+GCA_000009065,1,0,2,0,4,Yersinia pestis CO92,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,GCA_000009065.1,4666
+GCA_000009125,2,1,1,1,1,Ralstonia solanacearum GMI1000,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia solanacearum,GCA_000009125.1,5153
+GCA_000009145,1,0,0,0,0,Nitrosomonas europaea ATCC 19718,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas europaea,GCA_000009145.1,2888
+GCA_000009165,1,1,1,1,2,Xanthomonas campestris pv. vesicatoria str. 85-10,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas euvesicatoria,GCA_000009165.1,4792
+GCA_000009225,2,2,1,0,1,Pseudomonas fluorescens SBW25,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,GCA_000009225.1,6256
+GCA_000009265,3,0,0,2,0,Rhizobium leguminosarum bv. viciae 3841,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,GCA_000009265.1,7483
+GCA_000009345,2,1,2,0,1,Yersinia enterocolitica subsp. enterocolitica 8081,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,GCA_000009345.1,4479
+GCA_000009365,0,1,0,0,0,Alcanivorax borkumensis SK2,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,Alcanivorax borkumensis,GCA_000009365.1,2873
+GCA_000009485,2,1,1,1,1,Burkholderia cenocepacia J2315,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,GCA_000009485.1,7534
+GCA_000009625,4,0,1,3,1,Mesorhizobium loti MAFF303099,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium japonicum,GCA_000009625.1,7150
+GCA_000009705,5,0,0,0,0,Nostoc sp. PCC 7120,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc sp. PCC 7120 = FACHB-418,GCA_000009705.1,6694
+GCA_000009745,5,1,0,0,1,Vibrio vulnificus YJ016,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,GCA_000009745.1,4817
+GCA_000009925,2,0,0,0,2,Bacteroides fragilis YCH46,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,GCA_000009925.1,4412
+GCA_000009945,0,0,1,0,0,Chlamydophila felis Fe/C-56,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia felis,GCA_000009945.1,1062
+GCA_000009985,4,0,0,0,0,Magnetospirillum magneticum AMB-1,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum magneticum,GCA_000009985.1,4539
+GCA_000010065,2,0,0,0,0,Synechococcus elongatus PCC 6301,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus elongatus,GCA_000010065.1,2868
+GCA_000010085,0,0,3,0,0,Sodalis glossinidius str. 'morsitans',Proteobacteria,Gammaproteobacteria,Enterobacterales,Bruguierivoracaceae,Sodalis,Sodalis glossinidius,GCA_000010085.1,6007
+GCA_000010305,0,0,0,0,1,Gemmatimonas aurantiaca T-27,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,Gemmatimonas aurantiaca,GCA_000010305.1,4027
+GCA_000010325,1,0,0,0,0,Nitratiruptor sp. SB155-2,Proteobacteria,Epsilonproteobacteria,Nautiliales,Nitratiruptoraceae,Nitratiruptor,Nitratiruptor sp. SB155-2,GCA_000010325.1,1943
+GCA_000010345,1,0,0,0,0,Sulfurovum sp. NBC37-1,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Sulfurovaceae,Sulfurovum,Sulfurovum sp. NBC37-1,GCA_000010345.1,2503
+GCA_000010525,3,0,0,1,1,Azorhizobium caulinodans ORS 571,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Xanthobacteraceae,Azorhizobium,Azorhizobium caulinodans,GCA_000010525.1,4915
+GCA_000010625,1,0,0,0,0,Microcystis aeruginosa NIES-843,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Microcystaceae,Microcystis,Microcystis aeruginosa,GCA_000010625.1,5777
+GCA_000010665,1,0,0,0,0,Desulfovibrio magneticus RS-1,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Solidesulfovibrio,Solidesulfovibrio magneticus,GCA_000010665.1,4448
+GCA_000010725,5,0,0,0,2,Azospirillum sp. B510,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum sp. B510,GCA_000010725.1,6784
+GCA_000010825,2,0,0,0,0,Acetobacter pasteurianus IFO 3283-01,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter pasteurianus,GCA_000010825.1,3170
+GCA_000011065,1,0,0,0,0,Bacteroides thetaiotaomicron VPI-5482,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,GCA_000011065.1,4872
+GCA_000011365,6,0,1,1,1,Bradyrhizobium japonicum USDA 110,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium diazoefficiens,GCA_000011365.1,8517
+GCA_000011385,1,0,0,0,0,Gloeobacter violaceus PCC 7421,Cyanobacteria,Gloeobacteria,Gloeobacterales,Gloeobacteraceae,Gloeobacter,Gloeobacter violaceus,GCA_000011385.1,4459
+GCA_000011485,2,0,0,0,0,Prochlorococcus marinus str. MIT 9313,Cyanobacteria,,Synechococcales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,GCA_000011485.1,2873
+GCA_000011545,3,1,3,0,6,Burkholderia pseudomallei K96243,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei,GCA_000011545.1,6808
+GCA_000011565,0,0,1,0,0,Candidatus Protochlamydia amoebophila UWE25,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,Candidatus Protochlamydia,Candidatus Protochlamydia amoebophila,GCA_000011565.1,2085
+GCA_000011605,4,1,1,1,1,Pectobacterium atrosepticum SCRI1043,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,GCA_000011605.1,4605
+GCA_000011685,1,0,0,0,0,Gluconobacter oxydans 621H,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconobacter,Gluconobacter oxydans,GCA_000011685.1,2821
+GCA_000011705,2,1,2,0,3,Burkholderia mallei ATCC 23344,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,GCA_000011705.1,5724
+GCA_000011805,1,1,0,1,0,Vibrio fischeri ES114,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio fischeri,GCA_000011805.1,3825
+GCA_000011885,2,0,2,0,1,Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000011885.1,4679
+GCA_000011965,2,0,0,0,0,Ruegeria pomeroyi DSS-3,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Ruegeria,Ruegeria pomeroyi,GCA_000011965.2,4445
+GCA_000012005,1,1,1,0,0,Shigella dysenteriae Sd197,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella dysenteriae,GCA_000012005.1,5785
+GCA_000012145,1,0,0,0,0,Rickettsia felis URRWXCal2,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia felis,GCA_000012145.1,1810
+GCA_000012205,3,1,2,1,1,Pseudomonas syringae pv. phaseolicola 1448A,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas savastanoi,GCA_000012205.1,5569
+GCA_000012245,3,0,1,0,1,Pseudomonas syringae pv. syringae B728a,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,GCA_000012245.1,5293
+GCA_000012265,4,1,0,0,1,Pseudomonas protegens Pf-5,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,GCA_000012265.1,6363
+GCA_000012305,1,0,0,0,0,Psychrobacter arcticus 273-4,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter arcticus,GCA_000012305.1,2531
+GCA_000012325,3,1,0,0,0,Colwellia psychrerythraea 34H,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,GCA_000012325.1,4610
+GCA_000012365,2,1,2,0,5,Burkholderia thailandensis E264,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia thailandensis,GCA_000012365.1,6231
+GCA_000012385,1,0,0,0,0,Rickettsia bellii RML369-C,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia bellii,GCA_000012385.1,1612
+GCA_000012425,1,0,0,0,1,Dechloromonas aromatica RCB,Proteobacteria,Betaproteobacteria,Rhodocyclales,Azonexaceae,Dechloromonas,Dechloromonas aromatica,GCA_000012425.1,4192
+GCA_000012445,3,1,0,0,1,Pseudomonas fluorescens Pf0-1,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,GCA_000012445.1,5763
+GCA_000012485,1,0,0,0,0,Chlorobium luteolum DSM 273,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Pelodictyon,Pelodictyon luteolum,GCA_000012485.1,2214
+GCA_000012505,2,0,0,0,0,Synechococcus sp. CC9902,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CC9902,GCA_000012505.1,2561
+GCA_000012525,2,0,0,0,0,Synechococcus elongatus PCC 7942,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus elongatus,GCA_000012525.1,2915
+GCA_000012605,1,1,0,0,0,Thiomicrospira crunogena XCL-2,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Hydrogenovibrio,Hydrogenovibrio crunogenus,GCA_000012605.1,2296
+GCA_000012625,1,0,0,0,0,Synechococcus sp. CC9605,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CC9605,GCA_000012625.1,2858
+GCA_000012665,1,0,0,0,0,Desulfovibrio alaskensis G20,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Oleidesulfovibrio,Oleidesulfovibrio alaskensis,GCA_000012665.1,3671
+GCA_000012685,0,0,2,0,1,Myxococcus xanthus DK 1622,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,GCA_000012685.1,7378
+GCA_000012725,2,0,0,0,0,Nitrobacter winogradskyi Nb-255,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Nitrobacter,Nitrobacter winogradskyi,GCA_000012725.1,3552
+GCA_000012805,1,0,0,0,0,Nitrosococcus oceani ATCC 19707,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus oceani,GCA_000012805.1,3571
+GCA_000012845,2,0,0,0,0,Parabacteroides distasonis ATCC 8503,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis,GCA_000012845.1,3914
+GCA_000012885,0,0,0,0,1,Pelobacter carbinolicus DSM 2380,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Syntrophotaleaceae,Syntrophotalea,Syntrophotalea carbinolica,GCA_000012885.1,3383
+GCA_000012905,0,0,0,0,1,Rhodobacter sphaeroides 2.4.1,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter sphaeroides,GCA_000012905.2,4395
+GCA_000012925,0,1,0,0,1,Geobacter metallireducens GS-15,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter metallireducens,GCA_000012925.1,3608
+GCA_000012965,2,0,0,0,0,Sulfurimonas denitrificans DSM 1251,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Thiovulaceae,Sulfurimonas,Sulfurimonas denitrificans,GCA_000012965.1,2185
+GCA_000012985,1,1,2,0,1,Hahella chejuensis KCTC 2396,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Hahellaceae,Hahella,Hahella chejuensis,GCA_000012985.1,6451
+GCA_000013005,0,0,0,1,0,Erythrobacter litoralis HTCC2594,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,Erythrobacter litoralis,GCA_000013005.1,3011
+GCA_000013025,0,1,0,0,0,Hyphomonas neptunium ATCC 15444,Proteobacteria,Alphaproteobacteria,Hyphomonadales,Hyphomonadaceae,Hyphomonas,Hyphomonas neptunium,GCA_000013025.1,3573
+GCA_000013165,0,0,0,1,0,Neorickettsia sennetsu str. Miyayama,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Neorickettsia,Neorickettsia sennetsu,GCA_000013165.1,868
+GCA_000013325,1,1,0,1,0,Novosphingobium aromaticivorans DSM 12444,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium aromaticivorans,GCA_000013325.1,4054
+GCA_000013365,3,0,0,0,0,Rhodopseudomonas palustris HaA2,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Rhodopseudomonas,Rhodopseudomonas palustris,GCA_000013365.1,4921
+GCA_000013385,0,0,1,0,0,Anaeromyxobacter dehalogenans 2CP-C,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter dehalogenans,GCA_000013385.1,4461
+GCA_000013565,1,0,0,0,1,Jannaschia sp. CCS1,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Jannaschia,Jannaschia sp. CCS1,GCA_000013565.1,4427
+GCA_000013605,1,1,0,1,0,Rhodoferax ferrireducens T118,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax ferrireducens,GCA_000013605.1,4672
+GCA_000013625,1,0,0,0,0,Janthinobacterium sp. Marseille,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium sp. Marseille,GCA_000013625.1,3728
+GCA_000013645,3,1,1,3,1,Burkholderia xenovorans LB400,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia xenovorans,GCA_000013645.1,9140
+GCA_000013665,1,1,0,0,1,Saccharophagus degradans 2-40,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Saccharophagus,Saccharophagus degradans,GCA_000013665.1,4328
+GCA_000013705,3,0,0,0,0,Methylobacillus flagellatus KT,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylobacillus,Methylobacillus flagellatus,GCA_000013705.1,2896
+GCA_000013745,1,0,0,2,0,Rhodopseudomonas palustris BisB18,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Rhodopseudomonas,Rhodopseudomonas palustris,GCA_000013745.1,5061
+GCA_000013765,2,1,0,0,0,Shewanella denitrificans OS217,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella denitrificans,GCA_000013765.1,3963
+GCA_000013785,0,1,0,0,0,Pseudomonas stutzeri A1501,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas stutzeri,GCA_000013785.1,4203
+GCA_000013865,2,1,0,2,0,Polaromonas sp. JS666,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,Polaromonas sp. JS666,GCA_000013865.1,5596
+GCA_000013885,4,0,0,2,0,Nitrobacter hamburgensis X14,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Nitrobacter,Nitrobacter hamburgensis,GCA_000013885.1,5126
+GCA_000013905,0,1,0,0,0,Psychrobacter cryohalolentis K5,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter cryohalolentis,GCA_000013905.1,2610
+GCA_000013985,0,1,0,2,0,Sphingopyxis alaskensis RB2256,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis alaskensis,GCA_000013985.1,3282
+GCA_000014025,1,0,0,0,0,Arcobacter butzleri RM4018,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Arcobacteraceae,Aliarcobacter,Aliarcobacter butzleri,GCA_000014025.1,2275
+GCA_000014045,4,0,0,1,0,Roseobacter denitrificans OCh 114,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Roseobacter,Roseobacter denitrificans,GCA_000014045.1,4246
+GCA_000014065,2,0,0,1,0,Ruegeria sp. TM1040,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Ruegeria,Ruegeria sp. TM1040,GCA_000014065.1,3981
+GCA_000014225,1,1,0,0,0,Pseudoalteromonas atlantica T6c,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas atlantica,GCA_000014225.1,4593
+GCA_000014245,3,0,1,5,0,Chelativorans sp. BNC1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Chelativorans,Chelativorans sp. BNC1,GCA_000014245.1,4899
+GCA_000014265,1,0,0,0,0,Trichodesmium erythraeum IMS101,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Microcoleaceae,Trichodesmium,Trichodesmium erythraeum,GCA_000014265.1,6500
+GCA_000014285,1,0,0,0,0,Granulibacter bethesdensis CGDNIH1,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Granulibacter,Granulibacter bethesdensis,GCA_000014285.1,2532
+GCA_000014345,1,0,0,0,0,Rickettsia canadensis str. McKiel,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia canadensis,GCA_000014345.1,1230
+GCA_000014585,2,0,0,0,0,Synechococcus sp. CC9311,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CC9311,GCA_000014585.1,3058
+GCA_000014645,0,0,0,0,1,Francisella novicida U112,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella tularensis,GCA_000014645.1,1821
+GCA_000014665,1,1,0,0,0,Shewanella sp. MR-7,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sp. MR-7,GCA_000014665.1,4147
+GCA_000014685,1,1,0,0,0,Shewanella sp. MR-4,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sp. MR-4,GCA_000014685.1,4086
+GCA_000014705,1,1,0,0,1,Shewanella frigidimarina NCIMB 400,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella frigidimarina,GCA_000014705.1,4210
+GCA_000014745,1,1,0,0,0,Maricaulis maris MCS10,Proteobacteria,Alphaproteobacteria,Maricaulales,Maricaulaceae,Maricaulis,Maricaulis maris,GCA_000014745.1,3163
+GCA_000014765,0,0,0,2,0,Nitrosomonas eutropha C91,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas eutropha,GCA_000014765.1,3050
+GCA_000014785,1,1,0,0,1,Alkalilimnicola ehrlichii MLHE-1,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Alkalilimnicola,Alkalilimnicola ehrlichii,GCA_000014785.1,2879
+GCA_000014805,2,1,0,0,1,Aeromonas hydrophila subsp. hydrophila ATCC 7966,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila,GCA_000014805.1,4235
+GCA_000014825,3,0,0,1,0,Rhodopseudomonas palustris BisA53,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Rhodopseudomonas,Rhodopseudomonas palustris,GCA_000014825.1,4997
+GCA_000014865,4,0,0,0,0,Magnetococcus marinus MC-1,Proteobacteria,Alphaproteobacteria,Magnetococcales,Magnetococcaceae,Magnetococcus,Magnetococcus marinus,GCA_000014865.1,3843
+GCA_000014885,5,1,0,0,0,Shewanella piezotolerans WP3,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella piezotolerans,GCA_000014885.1,4750
+GCA_000014905,0,0,0,0,1,Candidatus Solibacter usitatus Ellin6076,Acidobacteria,Acidobacteriia,Bryobacterales,Solibacteraceae,Candidatus Solibacter,Candidatus Solibacter usitatus,GCA_000014905.1,8295
+GCA_000015045,1,0,0,0,0,Pelobacter propionicus DSM 2379,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Pelobacter,Pelobacter propionicus,GCA_000015045.1,3740
+GCA_000015085,1,0,0,0,0,Campylobacter fetus subsp. fetus 82-40,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter fetus,GCA_000015085.1,1768
+GCA_000015105,1,0,0,0,0,Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica),Proteobacteria,Gammaproteobacteria,,,Candidatus Ruthia,Candidatus Ruthia magnifica,GCA_000015105.1,1193
+GCA_000015165,4,0,0,5,0,Bradyrhizobium sp. BTAi1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium sp. BTAi1,GCA_000015165.1,7808
+GCA_000015185,0,1,0,0,0,Shewanella sp. W3-18-1,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sp. W3-18-1,GCA_000015185.1,4287
+GCA_000015245,1,1,0,0,0,Shewanella amazonensis SB2B,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella amazonensis,GCA_000015245.1,3770
+GCA_000015285,1,1,0,0,0,Psychromonas ingrahamii 37,Proteobacteria,Gammaproteobacteria,Alteromonadales,Psychromonadaceae,Psychromonas,Psychromonas ingrahamii,GCA_000015285.1,4122
+GCA_000015325,0,1,1,1,1,Acidovorax citrulli AAC00-1,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax citrulli,GCA_000015325.1,4884
+GCA_000015345,1,0,0,0,0,Dichelobacter nodosus VCS1703A,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Cardiobacteriaceae,Dichelobacter,Dichelobacter nodosus,GCA_000015345.1,1342
+GCA_000015365,0,1,0,0,1,Marinobacter aquaeolei VT8,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter nauticus,GCA_000015365.1,4330
+GCA_000015425,2,1,0,0,0,Acinetobacter baumannii ATCC 17978,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,GCA_000015425.1,3490
+GCA_000015465,1,1,0,0,3,Burkholderia mallei SAVP1,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia mallei,GCA_000015465.1,5095
+GCA_000015505,0,1,0,2,0,Polaromonas naphthalenivorans CJ2,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,Polaromonas naphthalenivorans,GCA_000015505.1,5026
+GCA_000015545,1,1,0,2,0,Acidovorax sp. JS42,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax sp. JS42,GCA_000015545.1,4392
+GCA_000015565,2,1,0,2,0,Verminephrobacter eiseniae EF01-2,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Verminephrobacter,Verminephrobacter eiseniae,GCA_000015565.1,5393
+GCA_000015585,0,1,0,0,0,Halorhodospira halophila SL1,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Halorhodospira,Halorhodospira halophila,GCA_000015585.1,2414
+GCA_000015645,1,0,0,0,0,Prochlorococcus marinus str. AS9601,Cyanobacteria,,Synechococcales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,GCA_000015645.1,1936
+GCA_000015725,2,1,0,0,0,Methylibium petroleiphilum PM1,Proteobacteria,Betaproteobacteria,Burkholderiales,,Methylibium,Methylibium petroleiphilum,GCA_000015725.1,4540
+GCA_000015845,2,1,1,0,0,Shewanella baltica OS155,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,GCA_000015845.1,4816
+GCA_000015885,1,0,0,0,0,Actinobacillus pleuropneumoniae serovar 5b str. L20,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus pleuropneumoniae,GCA_000015885.1,2129
+GCA_000016065,2,1,0,0,0,Shewanella loihica PV-4,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella loihica,GCA_000016065.1,3864
+GCA_000016085,1,0,0,0,0,Chlorobium phaeovibrioides DSM 265,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium phaeovibrioides,GCA_000016085.1,1865
+GCA_000016185,2,0,0,0,0,Rhodospirillum centenum SW,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Rhodospirillum,Rhodospirillum centenum,GCA_000016185.1,4020
+GCA_000016205,0,1,1,2,1,Burkholderia vietnamiensis G4,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia vietnamiensis,GCA_000016205.1,7587
+GCA_000016265,4,0,1,3,0,Agrobacterium radiobacter K84,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens,GCA_000016265.1,6877
+GCA_000016285,3,0,0,5,0,Agrobacterium vitis S4,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium vitis,GCA_000016285.1,5861
+GCA_000016305,2,1,0,0,1,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,GCA_000016305.1,5269
+GCA_000016325,1,0,0,0,0,Enterobacter sp. 638,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter sp. 638,GCA_000016325.1,4318
+GCA_000016405,0,0,0,1,0,Rhodobacter sphaeroides ATCC 17025,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter sphaeroides,GCA_000016405.1,4541
+GCA_000016445,3,0,2,0,4,Yersinia pestis Pestoides F,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pestis,GCA_000016445.1,4855
+GCA_000016565,2,1,0,0,2,Pseudomonas mendocina ymp,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas mendocina,GCA_000016565.1,4688
+GCA_000016585,1,1,0,0,0,Shewanella putrefaciens CN-32,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella putrefaciens,GCA_000016585.1,4170
+GCA_000016625,1,0,0,0,0,Rickettsia massiliae MTU5,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia massiliae,GCA_000016625.1,1721
+GCA_000016645,3,0,0,0,1,Flavobacterium johnsoniae UW101,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae,GCA_000016645.1,5235
+GCA_000016725,1,0,0,1,1,Acidiphilium cryptum JF-5,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,Acidiphilium cryptum,GCA_000016725.1,3627
+GCA_000016745,1,0,0,0,0,Geobacter uraniireducens Rf4,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geotalea,Geotalea uraniireducens,GCA_000016745.1,4714
+GCA_000016765,1,1,0,3,0,Sphingomonas wittichii RW1,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Rhizorhabdus,Rhizorhabdus wittichii,GCA_000016765.1,5470
+GCA_000016845,0,0,0,1,0,Brucella ovis ATCC 25840,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella ovis,GCA_000016845.1,3543
+GCA_000016885,1,0,0,0,0,Psychrobacter sp. PRwf-1,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter sp. PRwf-1,GCA_000016885.1,2512
+GCA_000017145,3,0,0,3,0,Sinorhizobium medicae WSM419,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium medicae,GCA_000017145.1,6826
+GCA_000017265,1,1,0,3,0,Phenylobacterium zucineum HLK1,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,Phenylobacterium zucineum,GCA_000017265.1,4290
+GCA_000017285,2,0,0,0,1,Marinomonas sp. MWYL1,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,Marinomonas sp. MWYL1,GCA_000017285.1,4654
+GCA_000017325,1,1,0,0,0,Shewanella baltica OS185,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,GCA_000017325.1,4673
+GCA_000017405,3,0,0,3,0,Ochrobactrum anthropi ATCC 49188,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella anthropi,GCA_000017405.1,5025
+GCA_000017445,1,0,0,0,0,Rickettsia rickettsii str. Iowa,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia rickettsii,GCA_000017445.3,1595
+GCA_000017465,1,0,0,0,0,Campylobacter curvus 525.92,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter curvus,GCA_000017465.1,2035
+GCA_000017505,1,0,1,0,0,Anaeromyxobacter sp. Fw109-5,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter sp. Fw109-5,GCA_000017505.1,4712
+GCA_000017565,1,0,0,3,0,Parvibaculum lavamentivorans DS-1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Parvibaculaceae,Parvibaculum,Parvibaculum lavamentivorans,GCA_000017565.1,3768
+GCA_000017585,1,0,0,1,0,Campylobacter hominis ATCC BAA-381,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter hominis,GCA_000017585.1,1710
+GCA_000017645,1,0,0,7,0,Xanthobacter autotrophicus Py2,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Xanthobacteraceae,Xanthobacter,Xanthobacter autotrophicus,GCA_000017645.1,5150
+GCA_000017665,0,0,0,1,1,Cronobacter sakazakii ATCC BAA-894,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,GCA_000017665.1,4069
+GCA_000017725,1,0,0,0,0,Campylobacter concisus 13826,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter concisus,GCA_000017725.1,2086
+GCA_000017845,3,0,0,0,0,Cyanothece sp. ATCC 51142,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Aphanothecaceae,Crocosphaera,Crocosphaera subtropica,GCA_000017845.1,5159
+GCA_000018025,1,1,0,0,0,Shewanella sediminis HAW-EB3,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sediminis,GCA_000018025.1,4793
+GCA_000018045,0,1,0,1,0,Citrobacter koseri ATCC BAA-895,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter koseri,GCA_000018045.1,4311
+GCA_000018085,2,1,0,0,2,Serratia proteamaculans 568,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia proteamaculans,GCA_000018085.1,4965
+GCA_000018105,3,0,0,0,0,Acaryochloris marina MBIC11017,Cyanobacteria,,Synechococcales,Acaryochloridaceae,Acaryochloris,Acaryochloris marina,GCA_000018105.1,7710
+GCA_000018145,2,0,0,2,0,Dinoroseobacter shibae DFL 12,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Dinoroseobacter,Dinoroseobacter shibae,GCA_000018145.1,4366
+GCA_000018205,1,0,0,0,0,Rickettsia akari str. Hartford,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia akari,GCA_000018205.1,1437
+GCA_000018285,2,1,0,0,0,Shewanella pealeana ATCC 700345,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella pealeana,GCA_000018285.1,4458
+GCA_000018505,2,1,1,1,2,Burkholderia multivorans ATCC 17616,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia multivorans,GCA_000018505.1,6489
+GCA_000018525,0,0,0,1,0,Brucella canis ATCC 23365,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella canis,GCA_000018525.1,3435
+GCA_000018545,2,0,2,2,0,Sinorhizobium fredii NGR234,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii,GCA_000018545.1,6570
+GCA_000018625,3,0,2,0,2,"Salmonella enterica subsp. arizonae serovar 62:z4,z23:- strain RSK2980",Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000018625.1,4452
+GCA_000018665,2,1,0,2,1,Delftia acidovorans SPH-1,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia acidovorans,GCA_000018665.1,6130
+GCA_000018845,4,0,0,0,0,Methylobacterium extorquens PA1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylorubrum,Methylorubrum extorquens,GCA_000018845.1,4970
+GCA_000019145,2,0,0,5,0,Caulobacter sp. K31,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter sp. K31,GCA_000019145.1,5500
+GCA_000019185,1,1,0,0,0,Shewanella halifaxensis HAW-EB4,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella halifaxensis,GCA_000019185.1,4515
+GCA_000019205,0,0,0,1,0,Campylobacter lari RM2100,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter lari,GCA_000019205.1,1596
+GCA_000019225,4,1,0,0,0,Cellvibrio japonicus Ueda107,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Cellvibrio,Cellvibrio japonicus,GCA_000019225.1,3774
+GCA_000019285,0,0,0,0,1,Francisella philomiragia subsp. philomiragia ATCC 25017,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella philomiragia,GCA_000019285.1,1979
+GCA_000019365,6,0,0,0,0,Methylobacterium sp. 4-46,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. 4-46,GCA_000019365.1,6887
+GCA_000019525,2,1,0,0,1,Shewanella woodyi ATCC 51908,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella woodyi,GCA_000019525.1,5080
+GCA_000019725,1,0,0,1,0,Methylobacterium radiotolerans JCM 2831,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium radiotolerans,GCA_000019725.1,6462
+GCA_000019785,3,1,0,1,1,Leptothrix cholodnii SP-6,Proteobacteria,Betaproteobacteria,Burkholderiales,,Leptothrix,Leptothrix cholodnii,GCA_000019785.1,4433
+GCA_000019945,4,0,0,1,0,Methylobacterium populi BJ001,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylorubrum,Methylorubrum populi,GCA_000019945.1,5468
+GCA_000020025,4,0,0,0,0,Nostoc punctiforme PCC 73102,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc punctiforme,GCA_000020025.1,8615
+GCA_000020045,2,1,0,1,2,Burkholderia phymatum STM815,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phymatum,GCA_000020045.1,8063
+GCA_000020085,3,0,2,0,4,Yersinia pseudotuberculosis PB1/+,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,GCA_000020085.1,4638
+GCA_000020125,1,1,1,3,2,Burkholderia phytofirmans PsJN,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phytofirmans,GCA_000020125.1,8038
+GCA_000020205,0,1,0,3,0,Ralstonia pickettii 12J,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia pickettii,GCA_000020205.1,4975
+GCA_000020385,0,1,0,0,0,Geobacter lovleyi SZ,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Trichlorobacter,Trichlorobacter lovleyi,GCA_000020385.1,3631
+GCA_000020465,1,0,0,0,0,Chlorobium limicola DSM 245,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium limicola,GCA_000020465.1,2714
+GCA_000020545,1,0,0,0,0,Chlorobium phaeobacteroides BS1,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium,Chlorobium phaeobacteroides,GCA_000020545.1,2782
+GCA_000020625,1,0,0,2,0,Prosthecochloris aestuarii DSM 271,Chlorobi,Chlorobia,Chlorobiales,Chlorobiaceae,Prosthecochloris,Prosthecochloris aestuarii,GCA_000020625.1,2545
+GCA_000020725,0,1,0,0,0,Geobacter bemidjiensis Bem,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Citrifermentans,Citrifermentans bemidjiense,GCA_000020725.1,3969
+GCA_000020805,0,0,1,0,0,Anaeromyxobacter sp. K,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter sp. K,GCA_000020805.1,4505
+GCA_000020825,2,0,0,1,0,Acidithiobacillus ferrooxidans ATCC 53993,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrooxidans,GCA_000020825.1,2872
+GCA_000020865,0,0,0,1,1,Edwardsiella tarda EIB202,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella tarda,GCA_000020865.1,3325
+GCA_000021025,2,0,0,0,0,Laribacter hongkongensis HLHK9,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Laribacter,Laribacter hongkongensis,GCA_000021025.1,2979
+GCA_000021045,1,0,0,1,1,Azotobacter vinelandii DJ,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Azotobacter,Azotobacter vinelandii,GCA_000021045.1,4953
+GCA_000021325,2,0,0,3,0,Gluconacetobacter diazotrophicus PAl 5 (Prj:21071),Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconacetobacter,Gluconacetobacter diazotrophicus,GCA_000021325.1,3556
+GCA_000021365,1,0,0,4,0,Oligotropha carboxidovorans OM5,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Afipia,Afipia carboxidovorans,GCA_000021365.1,3611
+GCA_000021385,1,0,1,0,0,Desulfovibrio vulgaris str. 'Miyazaki F',Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,GCA_000021385.1,3474
+GCA_000021485,2,0,0,0,0,Acidithiobacillus ferrooxidans ATCC 23270,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrooxidans,GCA_000021485.1,3015
+GCA_000021525,1,0,0,0,0,Rickettsia peacockii str. Rustic,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia peacockii,GCA_000021525.1,1558
+GCA_000021665,1,1,0,0,0,Shewanella baltica OS223,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,GCA_000021665.1,4666
+GCA_000021705,1,1,2,2,0,Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Candidatus Hamiltonella,Candidatus Hamiltonella defensa,GCA_000021705.1,2392
+GCA_000021745,0,0,0,0,1,Methylocella silvestris BL2,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocella,Methylocella silvestris,GCA_000021745.1,4201
+GCA_000021765,0,1,0,0,0,Thauera sp. MZ1T,Proteobacteria,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Thauera,Thauera sp. MZ1T,GCA_000021765.1,4077
+GCA_000021805,3,0,0,0,0,Cyanothece sp. PCC 8801,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Aphanothecaceae,Rippkaea,Rippkaea orientalis,GCA_000021805.1,4651
+GCA_000021845,4,0,0,1,0,Methylobacterium extorquens CM4,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylorubrum,Methylorubrum extorquens,GCA_000021845.1,5681
+GCA_000021985,0,1,0,1,0,Thioalkalivibrio sulfidophilus HL-EbGr7,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,Thioalkalivibrio sulfidiphilus,GCA_000021985.1,3279
+GCA_000022005,2,1,0,1,0,Caulobacter crescentus NA1000,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,Caulobacter vibrioides,GCA_000022005.1,3784
+GCA_000022085,4,0,0,0,0,Methylobacterium nodulans ORS 2060,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium nodulans,GCA_000022085.1,8194
+GCA_000022125,1,0,0,0,0,Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio desulfuricans,GCA_000022125.1,2781
+GCA_000022145,0,0,1,1,0,Anaeromyxobacter dehalogenans 2CP-1,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter dehalogenans,GCA_000022145.1,4541
+GCA_000022165,2,0,2,0,1,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000022165.1,4993
+GCA_000022265,1,0,0,0,0,Geobacter daltonii FRC-32,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geotalea,Geotalea daltonii,GCA_000022265.1,3968
+GCA_000022305,0,1,0,2,0,Acidovorax ebreus TPSY,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Diaphorobacter,[Acidovorax] ebreus,GCA_000022305.1,3592
+GCA_000022525,0,0,0,1,0,Neorickettsia risticii str. Illinois,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Neorickettsia,Neorickettsia risticii,GCA_000022525.1,869
+GCA_000022565,0,0,0,3,0,Acidobacterium capsulatum ATCC 51196,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Acidobacterium,Acidobacterium capsulatum,GCA_000022565.1,3395
+GCA_000022645,1,1,1,0,4,Burkholderia glumae BGR1,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia glumae,GCA_000022645.2,6491
+GCA_000022685,3,0,0,0,0,Methylobacterium extorquens AM1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylorubrum,Methylorubrum extorquens,GCA_000022685.1,6453
+GCA_000022725,0,0,0,4,0,Bartonella grahamii as4aup,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella grahamii,GCA_000022725.1,2253
+GCA_000022745,0,0,0,1,0,Brucella microti CCM 4915,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella microti,GCA_000022745.1,3410
+GCA_000022885,1,0,0,0,1,Edwardsiella ictaluri 93-146,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,Edwardsiella ictaluri,GCA_000022885.2,3504
+GCA_000022985,0,0,0,0,1,Aggregatibacter aphrophilus NJ8700,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter aphrophilus,GCA_000022985.1,2226
+GCA_000023005,1,0,0,0,0,Rickettsia africae ESF-5,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia africae,GCA_000023005.1,1545
+GCA_000023025,0,1,0,0,1,Teredinibacter turnerae T7901,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Teredinibacter,Teredinibacter turnerae,GCA_000023025.1,4420
+GCA_000023065,1,1,0,0,1,Tolumonas auensis DSM 9187,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Tolumonas,Tolumonas auensis,GCA_000023065.1,3160
+GCA_000023125,2,0,0,0,1,Dyadobacter fermentans DSM 18053,Bacteroidetes,Cytophagia,Cytophagales,Spirosomaceae,Dyadobacter,Dyadobacter fermentans,GCA_000023125.1,5956
+GCA_000023225,2,0,0,0,0,Desulfomicrobium baculatum DSM 4028,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfomicrobiaceae,Desulfomicrobium,Desulfomicrobium baculatum,GCA_000023225.1,3546
+GCA_000023345,3,1,0,1,2,Variovorax paradoxus S110,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus,GCA_000023345.1,6343
+GCA_000023445,3,0,0,1,0,Desulfovibrio salexigens DSM 2638,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Maridesulfovibrio,Maridesulfovibrio salexigens,GCA_000023445.1,3851
+GCA_000023465,1,0,0,0,0,Zunongwangia profunda SM-A87,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Zunongwangia,Zunongwangia profunda,GCA_000023465.1,4560
+GCA_000023545,0,1,0,0,0,Dickeya dadantii Ech703,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Musicola,Musicola paradisiaca,GCA_000023545.1,4267
+GCA_000023565,1,1,1,1,1,Dickeya zeae Ech1591,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya,Dickeya chrysanthemi,GCA_000023565.1,4324
+GCA_000023605,4,1,1,0,1,Pectobacterium carotovorum subsp. carotovorum PC1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium carotovorum,GCA_000023605.1,4328
+GCA_000023645,0,1,0,1,0,Geobacter sp. M21,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sp. M21,GCA_000023645.1,4057
+GCA_000023705,2,0,0,0,0,Methylotenera mobilis JLW8,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylotenera,Methylotenera mobilis,GCA_000023705.1,2364
+GCA_000023745,3,0,0,1,0,Methylovorus glucosetrophus SIP3-4,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylovorus,Methylovorus glucosotrophus,GCA_000023745.1,2801
+GCA_000023765,1,0,0,0,0,Candidatus Liberibacter asiaticus str. psy62,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,GCA_000023765.2,1170
+GCA_000023785,2,1,0,1,0,Hirschia baltica ATCC 49814,Proteobacteria,Alphaproteobacteria,Hyphomonadales,Hyphomonadaceae,Hirschia,Hirschia baltica,GCA_000023785.1,3309
+GCA_000023825,2,0,0,0,0,Pedobacter heparinus DSM 2366,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Pedobacter,Pedobacter heparinus,GCA_000023825.1,4361
+GCA_000023905,0,0,0,1,0,Leptotrichia buccalis DSM 1135,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Leptotrichia,Leptotrichia buccalis,GCA_000023905.1,2333
+GCA_000024005,0,0,0,0,2,Chitinophaga pinensis DSM 2588,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Chitinophaga,Chitinophaga pinensis,GCA_000024005.1,7201
+GCA_000024045,2,0,0,0,0,Cyanothece sp. PCC 8802,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Aphanothecaceae,Rippkaea,Rippkaea orientalis,GCA_000024045.1,4694
+GCA_000024085,0,1,0,0,0,Kangiella koreensis DSM 16069,Proteobacteria,Gammaproteobacteria,Kangiellales,Kangiellaceae,Kangiella,Kangiella koreensis,GCA_000024085.1,2609
+GCA_000024125,1,0,0,0,0,Robiginitalea biformata HTCC2501,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Robiginitalea,Robiginitalea biformata,GCA_000024125.1,3156
+GCA_000024165,3,0,0,1,0,Candidatus Accumulibacter phosphatis clade IIA str. UW-1,Proteobacteria,Betaproteobacteria,,,Candidatus Accumulibacter,Candidatus Accumulibacter phosphatis,GCA_000024165.1,4856
+GCA_000024325,1,0,0,0,0,Desulfohalobium retbaense DSM 5692,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfohalobiaceae,Desulfohalobium,Desulfohalobium retbaense,GCA_000024325.1,2670
+GCA_000024465,1,0,0,0,0,Candidatus Puniceispirillum marinum IMCC1322,Proteobacteria,Alphaproteobacteria,,,Candidatus Puniceispirillum,Candidatus Puniceispirillum marinum,GCA_000024465.1,2578
+GCA_000024525,2,0,0,0,1,Spirosoma linguale DSM 74,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Spirosoma,Spirosoma linguale,GCA_000024525.1,6998
+GCA_000024565,0,0,0,2,0,Streptobacillus moniliformis DSM 12112,Fusobacteria,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Streptobacillus,Streptobacillus moniliformis,GCA_000024565.1,1509
+GCA_000024645,3,1,0,0,2,Pectobacterium wasabiae WPP163,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium parmentieri,GCA_000024645.1,4525
+GCA_000024725,1,0,0,0,0,Nitrosococcus halophilus Nc 4,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus halophilus,GCA_000024725.1,4144
+GCA_000024765,0,1,0,1,0,Halothiobacillus neapolitanus c2,Proteobacteria,Gammaproteobacteria,Chromatiales,Halothiobacillaceae,Halothiobacillus,Halothiobacillus neapolitanus,GCA_000024765.1,2485
+GCA_000024885,2,0,0,0,0,Sulfurospirillum deleyianum DSM 6946,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Sulfurospirillaceae,Sulfurospirillum,Sulfurospirillum deleyianum,GCA_000024885.1,2320
+GCA_000025405,1,0,0,0,2,Pantoea ananatis LMG 20103,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea ananatis,GCA_000025405.2,4397
+GCA_000025465,1,1,0,0,1,Klebsiella variicola At-22,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella variicola,GCA_000025465.1,5073
+GCA_000025485,1,0,0,0,0,Allochromatium vinosum DSM 180,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum,GCA_000025485.1,3220
+GCA_000025545,1,0,0,1,0,Thioalkalivibrio sp. K90mix,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,Thioalkalivibrio sp. K90mix,GCA_000025545.1,2832
+GCA_000025565,5,1,0,0,1,Enterobacter cloacae subsp. cloacae ATCC 13047,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae,GCA_000025565.1,5297
+GCA_000025705,0,1,0,0,0,Sideroxydans lithotrophicus ES-1,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sideroxydans,Sideroxydans lithotrophicus,GCA_000025705.1,2951
+GCA_000025725,1,0,0,0,0,Denitrovibrio acetiphilus DSM 12809,Deferribacteres,Deferribacteres,Deferribacterales,Geovibrionaceae,Denitrovibrio,Denitrovibrio acetiphilus,GCA_000025725.1,3027
+GCA_000025925,1,0,0,0,0,Prevotella ruminicola 23,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella ruminicola,GCA_000025925.1,2861
+GCA_000025945,2,0,0,1,0,Desulfotalea psychrophila LSv54,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfocapsaceae,Desulfotalea,Desulfotalea psychrophila,GCA_000025945.1,3497
+GCA_000025965,3,1,0,1,0,Aromatoleum aromaticum EbN1,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Aromatoleum,Aromatoleum aromaticum,GCA_000025965.1,4542
+GCA_000025985,3,0,0,0,1,Bacteroides fragilis NCTC 9343 strain ATCC 25285,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,GCA_000025985.1,4535
+GCA_000026025,0,0,1,0,0,Chlamydophila abortus S26/3,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia abortus,GCA_000026025.1,1059
+GCA_000026085,0,1,0,0,0,Pseudoalteromonas haloplanktis TAC125,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas translucida,GCA_000026085.1,3468
+GCA_000026105,5,1,0,0,1,Pseudomonas entomophila L48,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas entomophila,GCA_000026105.1,5333
+GCA_000026125,1,0,0,0,0,Herminiimonas arsenicoxydans,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herminiimonas,Herminiimonas arsenicoxydans,GCA_000026125.1,3290
+GCA_000026145,7,0,0,0,0,Bradyrhizobium sp. ORS 278,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium sp. ORS 278,GCA_000026145.1,6835
+GCA_000026185,1,1,2,2,1,Erwinia tasmaniensis Et1/99,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia tasmaniensis,GCA_000026185.1,3702
+GCA_000026225,2,1,0,0,1,Escherichia fergusonii ATCC 35469,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia fergusonii,GCA_000026225.1,4373
+GCA_000026325,1,1,1,2,1,Escherichia coli UMN026,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000026325.1,5198
+GCA_000026345,0,1,0,0,0,Escherichia coli IAI39,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000026345.1,5094
+GCA_000027065,1,0,0,1,3,Cronobacter turicensis z3032,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter turicensis,GCA_000027065.2,4173
+GCA_000027085,6,1,1,1,1,Citrobacter rodentium ICC168,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter rodentium,GCA_000027085.1,4879
+GCA_000027205,1,0,3,0,2,Erwinia amylovora ATCC 49946,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia amylovora,GCA_000027205.1,3627
+GCA_000027225,2,0,0,0,2,Xenorhabdus bovienii SS-2004,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Xenorhabdus,Xenorhabdus bovienii,GCA_000027225.1,3978
+GCA_000027265,1,0,2,0,1,Erwinia pyrifoliae Ep1/96,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia pyrifoliae,GCA_000027265.1,3620
+GCA_000039765,4,1,0,0,1,Vibrio vulnificus CMCP6,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,GCA_000039765.1,4808
+GCA_000046685,0,0,0,2,0,Bartonella quintana str. Toulouse,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella quintana,GCA_000046685.1,1491
+GCA_000046705,0,0,0,2,0,Bartonella henselae str. Houston-1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella henselae,GCA_000046705.1,1941
+GCA_000046845,1,1,0,0,1,Acinetobacter sp. ADP1,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baylyi,GCA_000046845.1,3289
+GCA_000047365,3,0,2,1,4,Yersinia pseudotuberculosis IP 32953,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia pseudotuberculosis,GCA_000047365.1,4745
+GCA_000054005,0,0,0,1,0,Brucella melitensis biovar Abortus 2308,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella abortus,GCA_000054005.1,3467
+GCA_000055785,1,0,0,0,1,Chromohalobacter salexigens DSM 3043,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Chromohalobacter,Chromohalobacter salexigens,GCA_000055785.1,3333
+GCA_000055945,0,0,1,0,0,Lawsonia intracellularis PHE/MN1-00,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Lawsonia,Lawsonia intracellularis,GCA_000055945.1,1460
+GCA_000061505,1,0,0,0,2,Azoarcus sp. BH72,Proteobacteria,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Azoarcus,Azoarcus sp. BH72,GCA_000061505.1,4031
+GCA_000063505,2,0,0,0,0,Synechococcus sp. WH 7803,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7803,GCA_000063505.1,2616
+GCA_000063525,1,0,0,0,0,Synechococcus sp. RCC307,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. RCC307,GCA_000063525.1,2546
+GCA_000063545,1,0,0,0,0,Orientia tsutsugamushi str. Boryong,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Orientia,Orientia tsutsugamushi,GCA_000063545.1,2364
+GCA_000064305,1,0,0,0,0,Flavobacterium psychrophilum JIP02/86,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium psychrophilum,GCA_000064305.2,2558
+GCA_000067045,1,0,0,5,0,Gluconacetobacter diazotrophicus PAl 5,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconacetobacter,Gluconacetobacter diazotrophicus,GCA_000067045.1,3675
+GCA_000067165,0,0,0,0,1,Sorangium cellulosum So ce56,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Sorangium,Sorangium cellulosum,GCA_000067165.1,10188
+GCA_000067205,0,1,0,3,2,Bordetella petrii DSM 12804,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella petrii,GCA_000067205.1,5044
+GCA_000068585,0,0,1,0,0,Chlamydia trachomatis 434/Bu,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia trachomatis,GCA_000068585.1,962
+GCA_000069205,2,0,0,0,1,Acinetobacter baumannii SDF,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,GCA_000069205.1,3470
+GCA_000069785,4,1,1,1,2,Cupriavidus taiwanensis strain LMG 19424,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus taiwanensis,GCA_000069785.1,5752
+GCA_000069965,2,0,1,1,1,Proteus mirabilis HI4320,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis,GCA_000069965.1,3685
+GCA_000070465,0,1,0,0,0,Bordetella avium 197N,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella avium,GCA_000070465.1,3467
+GCA_000072485,0,1,0,2,0,Stenotrophomonas maltophilia K279a,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia,GCA_000072485.1,4429
+GCA_000087965,2,0,1,4,0,Xanthomonas albilineans strain GPE PC73,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas albilineans,GCA_000087965.1,3154
+GCA_000091125,6,1,0,4,0,Sphingobium japonicum UT26S,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium indicum,GCA_000091125.1,4063
+GCA_000091325,4,1,1,0,0,Shewanella violacea DSS12,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella violacea,GCA_000091325.1,4179
+GCA_000091465,3,1,0,0,2,Vibrio splendidus LGP32,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio atlanticus,GCA_000091465.1,4324
+GCA_000091565,1,0,3,0,2,Erwinia amylovora CFBP1430,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia amylovora,GCA_000091565.1,3550
+GCA_000092025,4,0,0,3,1,Agrobacterium fabrum str. C58,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,GCA_000092025.1,5382
+GCA_000092045,3,0,1,3,0,Rhizobium etli CFN 42,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium etli,GCA_000092045.1,6348
+GCA_000092205,0,1,0,0,0,Desulfurivibrio alkaliphilus AHT2,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfurivibrio,Desulfurivibrio alkaliphilus,GCA_000092205.1,2708
+GCA_000092245,4,0,0,0,1,Arcobacter nitrofigilis DSM 7299,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Arcobacteraceae,Arcobacter,Arcobacter nitrofigilis,GCA_000092245.1,3130
+GCA_000092525,0,0,1,0,1,Shigella sonnei Ss046,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,GCA_000092525.1,5693
+GCA_000092605,0,1,0,1,0,Thiomonas intermedia K12,Proteobacteria,Betaproteobacteria,Burkholderiales,,Thiomonas,Thiomonas intermedia,GCA_000092605.1,3299
+GCA_000092785,0,0,1,0,0,Waddlia chondrophila WSU 86-1044,Chlamydiae,Chlamydiia,Parachlamydiales,Waddliaceae,Waddlia,Waddlia chondrophila,GCA_000092785.1,1929
+GCA_000092885,3,1,0,0,2,Burkholderia sp. CCGE1002,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia sp. CCGE1002,GCA_000092885.1,7233
+GCA_000093025,2,0,0,0,0,Methylotenera versatilis 301,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylotenera,Methylotenera versatilis,GCA_000093025.1,2828
+GCA_000093145,1,1,0,0,0,Comamonas testosteroni CNB-2,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,Comamonas testosteroni,GCA_000093145.2,5051
+GCA_000143085,1,0,0,0,0,Nitrosococcus watsonii C-113,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus watsonii,GCA_000143085.1,3429
+GCA_000143225,3,0,1,0,2,Herbaspirillum seropedicae SmR1,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum seropedicae,GCA_000143225.1,4859
+GCA_000144605,1,1,0,0,0,Brevundimonas subvibrioides ATCC 15264,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas subvibrioides,GCA_000144605.1,3367
+GCA_000145255,1,0,0,0,0,Gallionella capsiferriformans ES-2,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Gallionella,Gallionella capsiferriformans,GCA_000145255.1,2983
+GCA_000146165,2,1,0,0,0,Shewanella oneidensis MR-1,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella oneidensis,GCA_000146165.2,4777
+GCA_000147055,1,1,1,2,1,Dickeya dadantii 3937,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya,Dickeya dadantii,GCA_000147055.1,4512
+GCA_000147335,2,0,0,0,0,Cyanothece sp. PCC 7822,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece verrucosa,GCA_000147335.1,7382
+GCA_000148645,1,1,0,0,0,Ferrimonas balearica DSM 9799,Proteobacteria,Gammaproteobacteria,Alteromonadales,Ferrimonadaceae,Ferrimonas,Ferrimonas balearica,GCA_000148645.1,3819
+GCA_000148685,2,1,1,0,2,Burkholderia sp. CCGE1003,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. CCGE1003,GCA_000148685.1,6530
+GCA_000152825,1,1,0,3,0,Parvularcula bermudensis HTCC2503,Proteobacteria,Alphaproteobacteria,Parvularculales,Parvularculaceae,Parvularcula,Parvularcula bermudensis,GCA_000152825.2,2775
+GCA_000152925,1,0,0,0,0,Dokdonia sp. MED134,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,Dokdonia sp. MED134,GCA_000152925.3,2982
+GCA_000164865,0,1,0,0,0,Enterobacter lignolyticus SCF1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Pluralibacter,[Enterobacter] lignolyticus,GCA_000164865.1,4508
+GCA_000164885,0,0,0,1,0,Ketogulonicigenium vulgare Y25,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Ketogulonicigenium,Ketogulonicigenium vulgare,GCA_000164885.1,3342
+GCA_000165485,0,0,1,0,0,Stigmatella aurantiaca DW4/3-1 (Prj:54333),Proteobacteria,Deltaproteobacteria,Myxococcales,Archangiaceae,Stigmatella,Stigmatella aurantiaca,GCA_000165485.1,8569
+GCA_000165505,0,0,0,1,0,Ilyobacter polytropus DSM 2926,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Ilyobacter,Ilyobacter polytropus,GCA_000165505.1,3022
+GCA_000165715,1,0,0,0,1,Planctomyces brasiliensis DSM 5305,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Rubinisphaera,Rubinisphaera brasiliensis,GCA_000165715.3,5220
+GCA_000165815,1,0,2,0,1,Erwinia sp. Ejp617,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia sp. Ejp617,GCA_000165815.1,3871
+GCA_000165835,2,1,0,1,2,Achromobacter xylosoxidans A8,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter xylosoxidans,GCA_000165835.1,6805
+GCA_000166055,1,0,0,3,0,Rhodomicrobium vannielii ATCC 17100,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodomicrobium,Rhodomicrobium vannielii,GCA_000166055.1,3887
+GCA_000166295,0,1,0,1,1,Marinobacter adhaerens HP15,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter adhaerens,GCA_000166295.1,4371
+GCA_000175095,1,0,0,2,0,Nitrosomonas sp. AL212,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas sp. AL212,GCA_000175095.2,3391
+GCA_000175115,1,1,0,0,0,Geobacter sp. M18,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sp. M18,GCA_000175115.2,4472
+GCA_000175215,0,0,0,4,0,Asticcacaulis excentricus CB 48,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Asticcacaulis,Asticcacaulis excentricus,GCA_000175215.2,3780
+GCA_000175935,3,0,0,0,2,Pantoea sp. At-9b,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea sp. At-9b,GCA_000175935.2,5804
+GCA_000176835,5,0,0,0,0,Serratia plymuthica 4Rx13,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia plymuthica,GCA_000176835.2,4926
+GCA_000176855,1,1,1,0,1,Acidovorax avenae subsp. avenae ATCC 19860,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax avenae,GCA_000176855.2,4908
+GCA_000176915,2,0,0,0,0,Desulfovibrio aespoeensis Aspo-2,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Pseudodesulfovibrio,Pseudodesulfovibrio aespoeensis,GCA_000176915.2,3401
+GCA_000176935,2,1,1,2,2,Burkholderia sp. CCGE1001,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. CCGE1001,GCA_000176935.2,6331
+GCA_000177635,1,1,0,0,0,Desulfurispirillum indicum S5,Chrysiogenetes,Chrysiogenetes,Chrysiogenales,Chrysiogenaceae,Desulfurispirillum,Desulfurispirillum indicum,GCA_000177635.2,2670
+GCA_000178875,1,1,1,0,0,Shewanella baltica OS678,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,GCA_000178875.2,4778
+GCA_000178975,0,0,0,3,1,Acidobacterium sp. MP5ACTX9,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Granulicella,Granulicella tundricola,GCA_000178975.2,4649
+GCA_000179015,0,1,0,3,0,Alicycliphilus denitrificans BC,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Alicycliphilus,Alicycliphilus denitrificans,GCA_000179015.2,4626
+GCA_000179915,1,0,0,3,1,Terriglobus saanensis SP1PR4,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Terriglobus,Terriglobus saanensis,GCA_000179915.2,4432
+GCA_000182745,1,0,0,2,0,Gluconacetobacter xylinus NBRC 3288,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Komagataeibacter,Komagataeibacter medellinensis,GCA_000182745.1,3490
+GCA_000183115,1,0,0,0,0,Methylovorus sp. MP688,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylovorus,Methylovorus sp. MP688,GCA_000183115.1,2683
+GCA_000183155,1,0,0,0,0,Riemerella anatipestifer ATCC 11845 = DSM 15868,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Riemerella,Riemerella anatipestifer,GCA_000183155.1,2041
+GCA_000183345,0,2,0,0,2,Escherichia coli O83:H1 str. NRG 857C,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000183345.1,4686
+GCA_000183665,1,0,0,0,0,Candidatus Liberibacter solanacearum CLso-ZC1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter solanacearum,GCA_000183665.1,1191
+GCA_000183725,3,0,0,0,0,Sulfuricurvum kujiense DSM 16994,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Thiovulaceae,Sulfuricurvum,Sulfuricurvum kujiense,GCA_000183725.1,2786
+GCA_000184065,0,1,0,0,1,Pseudoalteromonas sp. SM9913,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas sp. SM9913,GCA_000184065.1,3691
+GCA_000184325,2,1,0,0,2,Vibrio furnissii NCTC 11218,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio furnissii,GCA_000184325.1,4542
+GCA_000184745,2,1,1,0,4,Variovorax paradoxus EPS,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,Variovorax paradoxus,GCA_000184745.1,6107
+GCA_000185745,0,0,0,1,1,Taylorella equigenitalis MCE9,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Taylorella,Taylorella equigenitalis,GCA_000185745.1,1546
+GCA_000185905,4,0,0,2,1,Mesorhizobium ciceri biovar biserrulae WSM1271,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium ciceri,GCA_000185905.1,6532
+GCA_000185965,1,1,0,0,0,Pseudoxanthomonas suwonensis 11-1,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas suwonensis,GCA_000185965.1,3132
+GCA_000186265,0,0,0,0,1,Cellulophaga algicola DSM 14237,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga algicola,GCA_000186265.1,4339
+GCA_000190575,0,0,0,0,1,Bacteroides salanitronis DSM 18170 strain DSM 18179,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola salanitronis,GCA_000190575.1,3901
+GCA_000190595,1,0,0,0,0,Cellulophaga lytica DSM 7489,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga lytica,GCA_000190595.1,3297
+GCA_000191045,1,0,0,0,0,Desulfurobacterium thermolithotrophum DSM 11699,Aquificae,Aquificae,Desulfurobacteriales,Desulfurobacteriaceae,Desulfurobacterium,Desulfurobacterium thermolithotrophum,GCA_000191045.1,1592
+GCA_000191145,1,1,0,0,1,Acinetobacter calcoaceticus PHEA-2,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter pittii,GCA_000191145.1,3592
+GCA_000191925,0,0,1,0,0,Chlamydophila psittaci 6BC,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,GCA_000191925.1,1035
+GCA_000192635,5,0,0,1,1,Agrobacterium sp. H13-3,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. H13-3,GCA_000192635.1,3377
+GCA_000192745,1,0,0,2,0,Polymorphum gilvum SL003B-26A1,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Polymorphum,Polymorphum gilvum,GCA_000192745.1,4530
+GCA_000192845,2,0,0,0,1,Sphingobacterium sp. 21,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium sp. 21,GCA_000192845.1,5588
+GCA_000192865,1,1,1,0,2,Marinomonas mediterranea MMB-1,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,Marinomonas mediterranea,GCA_000192865.1,4378
+GCA_000194605,1,0,0,0,0,Fluviicola taffensis DSM 16823,Bacteroidetes,Flavobacteriia,Flavobacteriales,Crocinitomicaceae,Fluviicola,Fluviicola taffensis,GCA_000194605.1,4136
+GCA_000194745,1,1,1,1,3,Burkholderia gladioli BSR3,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia gladioli,GCA_000194745.1,8032
+GCA_000194805,4,1,1,0,1,Pseudomonas brassicacearum subsp. brassicacearum NFM421,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas brassicacearum,GCA_000194805.1,6044
+GCA_000195275,0,0,0,2,0,Treponema succinifaciens DSM 2489,Spirochaetes,Spirochaetia,Spirochaetales,Treponemataceae,Treponema,Treponema succinifaciens,GCA_000195275.1,2851
+GCA_000195715,1,0,1,1,0,Bordetella pertussis Tohama I,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella pertussis,GCA_000195715.1,4170
+GCA_000195735,1,0,0,0,0,Rickettsia prowazekii str. Madrid E,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia prowazekii,GCA_000195735.1,924
+GCA_000195755,1,0,1,0,0,Desulfovibrio vulgaris str. Hildenborough,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio vulgaris,GCA_000195755.1,3238
+GCA_000195775,0,0,0,2,0,Rhodopseudomonas palustris CGA009,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Rhodopseudomonas,Rhodopseudomonas palustris,GCA_000195775.1,5089
+GCA_000195975,3,0,0,0,0,Synechococcus sp. WH 8102,Cyanobacteria,,Synechococcales,Prochlorococcaceae,Parasynechococcus,Parasynechococcus marenigrum,GCA_000195975.1,2690
+GCA_000195995,2,0,2,0,1,Salmonella enterica subsp. enterica serovar Typhi str. CT18,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,GCA_000195995.1,5297
+GCA_000196015,0,1,0,3,1,Cupriavidus metallidurans CH34,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus metallidurans,GCA_000196015.1,6350
+GCA_000196095,2,1,1,0,2,Vibrio parahaemolyticus RIMD 2210633,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,GCA_000196095.1,4664
+GCA_000196135,0,0,0,1,0,Wolinella succinogenes DSM 1740,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Wolinella,Wolinella succinogenes,GCA_000196135.1,2098
+GCA_000196155,4,0,1,0,3,Photorhabdus luminescens subsp. laumondii TTO1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus laumondii,GCA_000196155.1,5519
+GCA_000196255,2,1,0,1,1,Photobacterium profundum SS9,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium profundum,GCA_000196255.1,5962
+GCA_000196315,1,0,0,0,0,Croceibacter atlanticus HTCC2559,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Croceibacter,Croceibacter atlanticus,GCA_000196315.1,2698
+GCA_000196355,1,1,0,0,0,Nitrosospira multiformis ATCC 25196,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosospira,Nitrosospira multiformis,GCA_000196355.1,3266
+GCA_000196395,1,1,1,0,0,Aeromonas salmonicida subsp. salmonicida A449,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas salmonicida,GCA_000196395.1,4598
+GCA_000196435,1,0,0,3,0,Bartonella tribocorum CIP 105476,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella tribocorum,GCA_000196435.1,2741
+GCA_000196475,3,0,1,0,3,Photorhabdus asymbiotica strain ATCC 43949,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus asymbiotica,GCA_000196475.1,4890
+GCA_000196495,2,1,0,0,2,Aliivibrio salmonicida LFI1238,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio salmonicida,GCA_000196495.1,4532
+GCA_000196515,1,0,0,0,0,''Nostoc azollae' 0708',Cyanobacteria,,Nostocales,Nostocaceae,Trichormus,Trichormus azollae,GCA_000196515.1,7014
+GCA_000196615,3,0,0,0,2,Erwinia billingiae Eb661,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia billingiae,GCA_000196615.1,4929
+GCA_000196795,1,1,0,0,1,Acinetobacter oleivorans DR1,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter oleivorans,GCA_000196795.1,3851
+GCA_000196815,1,0,0,0,1,Candidatus Nitrospira defluvii,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,Nitrospira defluvii,GCA_000196815.1,4177
+GCA_000196875,2,0,0,0,1,Halomonas elongata DSM 2581,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas elongata,GCA_000196875.1,3715
+GCA_000198515,1,1,1,0,0,gamma proteobacterium HdN1,Proteobacteria,Gammaproteobacteria,,,,gamma proteobacterium HdN1,GCA_000198515.1,4156
+GCA_000198775,0,1,1,0,0,Burkholderia rhizoxinica HKI 454,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Mycetohabitans,Mycetohabitans rhizoxinica,GCA_000198775.1,3524
+GCA_000202835,1,0,0,4,1,Acidiphilium multivorum AIU301,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acidiphilium,Acidiphilium multivorum,GCA_000202835.1,3987
+GCA_000203875,2,1,0,1,2,Ralstonia eutropha JMP134,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus pinatubonensis,GCA_000203875.1,6666
+GCA_000203895,4,0,0,3,1,Paracoccus denitrificans PD1222,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus denitrificans,GCA_000203895.1,5096
+GCA_000203915,3,1,2,2,2,Burkholderia ambifaria AMMD,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia ambifaria,GCA_000203915.1,6871
+GCA_000203935,1,1,0,1,0,Shewanella sp. ANA-3,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella sp. ANA-3,GCA_000203935.1,4524
+GCA_000203955,1,1,1,1,1,Burkholderia cenocepacia HI2424,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,GCA_000203955.1,6971
+GCA_000204075,3,0,0,0,0,Anabaena variabilis ATCC 29413,Cyanobacteria,,Nostocales,Nostocaceae,Trichormus,Trichormus variabilis,GCA_000204075.1,6436
+GCA_000204115,1,1,0,0,0,Aeromonas veronii B565,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas veronii,GCA_000204115.1,4073
+GCA_000204135,0,0,1,0,0,Chlamydophila pecorum E58,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia pecorum,GCA_000204135.1,996
+GCA_000204255,0,0,1,0,0,Chlamydophila psittaci 6BC (Prj:62889),Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,GCA_000204255.1,1042
+GCA_000204645,0,1,0,1,0,Alicycliphilus denitrificans K601,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Alicycliphilus,Alicycliphilus denitrificans,GCA_000204645.1,4874
+GCA_000208405,0,0,0,1,0,Selenomonas sputigena ATCC 35185,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas sputigena,GCA_000208405.1,2380
+GCA_000209655,0,1,0,2,2,Pusillimonas sp. T7-7,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pusillimonas (ex Stolz et al. 2005),Pusillimonas sp. T7-7,GCA_000209655.1,3706
+GCA_000209675,2,0,0,0,0,Gallibacterium anatis UMN179,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Gallibacterium,Gallibacterium anatis,GCA_000209675.1,2506
+GCA_000210375,1,0,0,0,0,Arthrospira platensis NIES-39,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Microcoleaceae,Arthrospira,Arthrospira platensis,GCA_000210375.1,7329
+GCA_000211855,1,0,0,0,1,Lacinutrix sp. 5H-3-7-4,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,Lacinutrix sp. 5H-3-7-4,GCA_000211855.3,2985
+GCA_000212335,1,1,0,0,0,Glaciecola sp. 4H-3-7+YE-5,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Glaciecola,Glaciecola sp. 4H-3-7+YE-5,GCA_000212335.1,4842
+GCA_000212355,1,0,0,0,0,Krokinobacter sp. 4H-3-7-5,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,Dokdonia sp. 4H-3-7-5,GCA_000212355.1,3086
+GCA_000212395,1,0,0,0,0,Thermodesulfobium narugense DSM 14796,Firmicutes,Clostridia,Thermoanaerobacterales,Thermodesulfobiaceae,Thermodesulfobium,Thermodesulfobium narugense,GCA_000212395.1,1905
+GCA_000212735,2,0,0,0,0,Haliscomenobacter hydrossis DSM 1100,Bacteroidetes,Saprospiria,Saprospirales,Haliscomenobacteraceae,Haliscomenobacter,Haliscomenobacter hydrossis,GCA_000212735.1,7221
+GCA_000213655,2,1,0,0,0,Alteromonas sp. SN2,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas naphthalenivorans,GCA_000213655.1,4476
+GCA_000213805,3,0,0,1,1,Pseudomonas fulva 12-X,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fulva,GCA_000213805.1,4476
+GCA_000214195,4,0,0,0,0,Serratia sp. AS12,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. AS12,GCA_000214195.1,5014
+GCA_000214215,1,0,0,0,2,Marinomonas posidonica IVIA-Po-181,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,Marinomonas posidonica,GCA_000214215.1,3612
+GCA_000214235,4,0,0,0,0,Serratia plymuthica AS9,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia plymuthica,GCA_000214235.1,5009
+GCA_000214395,1,1,0,0,1,Delftia sp. Cs1-4,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia sp. Cs1-4,GCA_000214395.1,6016
+GCA_000214665,1,1,0,0,1,Methylomonas methanica MC09,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomonas,Methylomonas methanica,GCA_000214665.1,4698
+GCA_000214825,0,1,0,0,0,Thioalkalimicrobium cyclicum ALM1,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Thiomicrospira,Thiomicrospira cyclica,GCA_000214825.1,1699
+GCA_000215705,1,1,1,0,0,Ramlibacter tataouinensis TTB310,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Ramlibacter,Ramlibacter tataouinensis,GCA_000215705.1,3921
+GCA_000215745,2,0,0,0,2,Enterobacter aerogenes KCTC 2190,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella aerogenes,GCA_000215745.1,4907
+GCA_000217675,2,1,0,0,2,Vibrio anguillarum 775,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio anguillarum,GCA_000217675.1,3775
+GCA_000218565,1,0,0,5,0,Oligotropha carboxidovorans OM5 (Prj:41025),Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Afipia,Afipia carboxidovorans,GCA_000218565.1,3870
+GCA_000218875,1,0,0,0,0,Zymomonas mobilis subsp. pomaceae ATCC 29192,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Zymomonadaceae,Zymomonas,Zymomonas mobilis,GCA_000218875.1,1894
+GCA_000218895,4,0,0,0,1,Runella slithyformis DSM 19594,Bacteroidetes,Cytophagia,Cytophagales,Spirosomaceae,Runella,Runella slithyformis,GCA_000218895.1,6268
+GCA_000219045,0,0,0,0,1,Francisella sp. TX077308,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella salina,GCA_000219045.1,1980
+GCA_000219105,0,0,2,0,1,Myxococcus fulvus HW-1,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus fulvus,GCA_000219105.1,7377
+GCA_000219215,2,1,0,2,0,Cupriavidus necator N-1,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus necator,GCA_000219215.1,7932
+GCA_000219355,1,0,0,0,0,Candidatus Midichloria mitochondrii IricVA,Proteobacteria,Alphaproteobacteria,Rickettsiales,Candidatus Midichloriaceae,Candidatus Midichloria,Candidatus Midichloria mitochondrii,GCA_000219355.1,1508
+GCA_000219585,1,0,0,0,0,Nitrosomonas sp. Is79A3,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas sp. Is79A3,GCA_000219585.1,3805
+GCA_000219605,0,1,0,0,1,Pseudomonas stutzeri ATCC 17588 = LMG 11199,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas stutzeri,GCA_000219605.1,4218
+GCA_000221005,0,0,0,1,0,Brucella pinnipedialis B2/94,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella pinnipedialis,GCA_000221005.1,3416
+GCA_000221025,0,0,0,1,0,Acidithiobacillus caldus SM-1,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,GCA_000221025.1,3150
+GCA_000221045,4,1,1,0,1,Collimonas fungivorans Ter331,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Collimonas,Collimonas fungivorans,GCA_000221045.1,4638
+GCA_000221205,1,0,0,0,0,Rickettsia heilongjiangensis 054,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia conorii,GCA_000221205.1,1562
+GCA_000223375,0,0,0,1,0,Ketogulonicigenium vulgare WSH-001,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Ketogulonicigenium,Ketogulonicigenium vulgare,GCA_000223375.1,3166
+GCA_000224085,1,0,0,0,0,Muricauda ruestringensis DSM 13258,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda ruestringensis,GCA_000224085.1,3611
+GCA_000224675,3,1,0,0,2,Enterobacter asburiae LF7a,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter asburiae,GCA_000224675.1,4637
+GCA_000225915,2,1,1,1,2,Xanthomonas axonopodis pv. citrumelo F1,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas euvesicatoria,GCA_000225915.1,4314
+GCA_000226295,1,0,0,0,0,Candidatus Chloracidobacterium thermophilum B,Acidobacteria,Blastocatellia,,,Chloracidobacterium,Chloracidobacterium thermophilum,GCA_000226295.1,3136
+GCA_000226315,3,0,0,0,0,Micavibrio aeruginosavorus ARL-13,Proteobacteria,Alphaproteobacteria,,,Micavibrio,Micavibrio aeruginosavorus,GCA_000226315.1,2349
+GCA_000226565,1,1,0,0,0,Glaciecola nitratireducens FR1064,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Glaciecola,Glaciecola nitratireducens,GCA_000226565.1,3637
+GCA_000226625,0,0,0,0,1,Taylorella asinigenitalis MCE3,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Taylorella,Taylorella asinigenitalis,GCA_000226625.1,1531
+GCA_000230555,2,0,0,2,0,Pelagibacterium halotolerans B2,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Devosiaceae,Pelagibacterium,Pelagibacterium halotolerans,GCA_000230555.1,3898
+GCA_000233915,1,1,0,1,0,Pseudoxanthomonas spadix BD-a59,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas spadix,GCA_000233915.4,3153
+GCA_000236065,2,1,0,2,4,Burkholderia sp. YI23,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. YI23,GCA_000236065.1,8366
+GCA_000236645,6,0,1,0,2,Pseudovibrio sp. FO-BEG1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Stappiaceae,Pseudovibrio,Pseudovibrio sp. FO-BEG1,GCA_000236645.1,5381
+GCA_000236665,1,0,0,1,0,Dechlorosoma suillum PS,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Azospira,Azospira oryzae,GCA_000236665.1,3404
+GCA_000236705,1,0,0,0,0,Owenweeksia hongkongensis DSM 17368,Bacteroidetes,Flavobacteriia,Flavobacteriales,Schleiferiaceae,Owenweeksia,Owenweeksia hongkongensis,GCA_000236705.1,3584
+GCA_000237065,5,2,2,0,1,Pseudomonas fluorescens F113,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas ogarae,GCA_000237065.1,6047
+GCA_000237205,0,0,1,0,0,Simkania negevensis Z,Chlamydiae,Chlamydiia,Parachlamydiales,Simkaniaceae,Simkania,Simkania negevensis,GCA_000237205.1,2399
+GCA_000237365,2,0,0,0,0,Azospirillum brasilense Sp245,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum baldaniorum,GCA_000237365.1,6970
+GCA_000237845,1,0,0,0,0,Rickettsia slovaca 13-B,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia slovaca,GCA_000237845.1,1611
+GCA_000238215,4,0,0,0,0,Tannerella forsythia ATCC 43037,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Tannerella,Tannerella forsythia,GCA_000238215.1,2908
+GCA_000240075,1,0,0,0,1,Flavobacterium columnare ATCC 49512,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,GCA_000240075.2,2812
+GCA_000240185,1,1,0,1,1,Klebsiella pneumoniae subsp. pneumoniae HS11286,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,GCA_000240185.2,5523
+GCA_000240325,2,2,0,1,2,Klebsiella oxytoca KCTC 1686,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella michiganensis,GCA_000240325.1,5553
+GCA_000241385,3,1,0,0,0,Vibrio sp. EJY3,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. EJY3,GCA_000241385.1,4846
+GCA_000241955,2,1,0,1,2,Rahnella aquatilis CIP 78.65 = ATCC 33071,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Rahnella,Rahnella aquatilis,GCA_000241955.1,4885
+GCA_000242255,1,0,0,0,1,Frateuria aurantia DSM 6220,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Frateuria,Frateuria aurantia,GCA_000242255.3,3264
+GCA_000243075,1,0,0,0,0,Oceanimonas sp. GK1,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Oceanimonas,Oceanimonas sp. GK1,GCA_000243075.1,3230
+GCA_000246855,0,0,0,0,1,Niastella koreensis GR20-10,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Niastella,Niastella koreensis,GCA_000246855.1,7540
+GCA_000252995,2,0,1,0,0,Salmonella bongori NCTC 12419,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella bongori,GCA_000252995.1,4276
+GCA_000253015,0,0,0,2,0,Bartonella clarridgeiae 73,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella clarridgeiae,GCA_000253015.1,1330
+GCA_000253035,0,0,1,0,0,Parachlamydia acanthamoebae UV-7,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,Parachlamydia,Parachlamydia acanthamoebae,GCA_000253035.1,2776
+GCA_000253255,2,0,0,4,0,Novosphingobium sp. PP1Y,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium sp. PP1Y,GCA_000253255.1,4998
+GCA_000253275,1,0,0,0,1,Flavobacterium branchiophilum strain FL-15,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium branchiophilum,GCA_000253275.1,3311
+GCA_000253295,0,0,1,0,0,Hyphomicrobium sp. MC1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp. MC1,GCA_000253295.1,4871
+GCA_000255295,0,0,1,0,0,Corallococcus coralloides DSM 2259,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Corallococcus,Corallococcus coralloides,GCA_000255295.1,8197
+GCA_000259175,2,0,1,0,1,Providencia stuartii MRSN 2154,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,GCA_000259175.1,4243
+GCA_000259255,0,0,0,1,0,Helicobacter cetorum MIT 00-7128,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter cetorum,GCA_000259255.1,1889
+GCA_000260925,3,1,0,1,2,Pectobacterium sp. SCC3193,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium sp. SCC3193,GCA_000260925.1,4855
+GCA_000260965,3,0,0,2,0,Methylophaga sp. JAM7,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Methylophaga,Methylophaga frappieri,GCA_000260965.1,2709
+GCA_000260985,3,0,0,0,0,Methylophaga sp. JAM1,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Methylophaga,Methylophaga nitratireducenticrescens,GCA_000260985.2,3060
+GCA_000261025,0,0,0,0,1,Prevotella intermedia 17,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,GCA_000261025.1,2455
+GCA_000262205,0,0,0,0,1,Francisella noatunensis subsp. orientalis str. Toba 04,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella orientalis,GCA_000262205.1,2277
+GCA_000262305,2,0,0,0,1,Shimwellia blattae DSM 4481 = NBRC 105725,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shimwellia,Shimwellia blattae,GCA_000262305.1,3910
+GCA_000263195,3,0,0,0,0,Emticicia oligotrophica DSM 17448,Bacteroidetes,Cytophagia,Cytophagales,Spirosomaceae,Emticicia,Emticicia oligotrophica,GCA_000263195.1,4414
+GCA_000264455,4,0,0,1,1,Tistrella mobilis KA081020-065,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Tistrella,Tistrella mobilis,GCA_000264455.2,5899
+GCA_000264555,9,2,0,0,3,Pseudomonas chlororaphis O6,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas chlororaphis,GCA_000264555.1,6251
+GCA_000265405,1,0,0,0,0,Belliella baltica DSM 15883,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Belliella,Belliella baltica,GCA_000265405.1,4009
+GCA_000266945,1,0,0,0,0,Desulfomonile tiedjei DSM 6799,Proteobacteria,Deltaproteobacteria,Syntrophales,Syntrophaceae,Desulfomonile,Desulfomonile tiedjei,GCA_000266945.1,6385
+GCA_000267545,1,1,0,0,1,Pseudomonas stutzeri CCUG 29243,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas stutzeri,GCA_000267545.1,4379
+GCA_000276685,0,0,0,1,1,Taylorella equigenitalis ATCC 35865,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Taylorella,Taylorella equigenitalis,GCA_000276685.1,1603
+GCA_000279165,0,1,0,1,1,Pseudomonas stutzeri DSM 10701,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas stutzeri,GCA_000279165.1,3886
+GCA_000283275,1,1,0,0,0,Marinobacter sp. BSs20148,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter sp. BSs20148,GCA_000283275.1,3855
+GCA_000283515,1,1,0,3,0,Sphingobium sp. SYK-6,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. SYK-6,GCA_000283515.1,4091
+GCA_000283535,1,0,0,0,1,Pseudogulbenkiania sp. NH8B,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Pseudogulbenkiania,Pseudogulbenkiania sp. NH8B,GCA_000283535.1,3997
+GCA_000283595,1,0,0,0,0,Rickettsia japonica YH,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia japonica,GCA_000283595.1,1575
+GCA_000283655,2,0,0,0,1,Azospirillum lipoferum 4B,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum lipoferum,GCA_000283655.1,3782
+GCA_000283875,1,0,0,0,1,Pantoea ananatis LMG 5342,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea ananatis,GCA_000283875.1,4376
+GCA_000283995,1,0,0,0,0,Rickettsia philipii str. 364D,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia philipii,GCA_000283995.1,1570
+GCA_000284055,1,0,0,0,0,Candidatus Rickettsia amblyommii str. GAT-30V,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia amblyommatis,GCA_000284055.1,1846
+GCA_000284075,1,0,0,0,0,Rickettsia rhipicephali str. 3-7-female6-CWPP,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia rhipicephali,GCA_000284075.1,1621
+GCA_000284155,1,0,0,0,0,Rickettsia australis str. Cutlack,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia australis,GCA_000284155.1,1565
+GCA_000284175,1,0,0,0,0,Rickettsia montanensis str. OSU 85-930,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia montanensis,GCA_000284175.1,1513
+GCA_000284195,1,0,0,0,0,Rickettsia parkeri str. Portsmouth,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia parkeri,GCA_000284195.1,1604
+GCA_000284235,2,0,0,0,1,Arcobacter sp. L,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Arcobacteraceae,,Arcobacter sp. L,GCA_000284235.1,2867
+GCA_000284255,0,1,0,0,2,Rubrivivax gelatinosus IL144,Proteobacteria,Betaproteobacteria,Burkholderiales,,Rubrivivax,Rubrivivax gelatinosus,GCA_000284255.1,4588
+GCA_000284275,3,0,0,0,0,Bradyrhizobium sp. S23321,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium cosmicum,GCA_000284275.1,6983
+GCA_000284315,0,0,0,1,0,Leptospirillum ferrooxidans C2-3,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Leptospirillum,Leptospirillum ferrooxidans,GCA_000284315.1,2945
+GCA_000284375,7,0,1,0,1,Bradyrhizobium japonicum USDA 6,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium japonicum,GCA_000284375.1 ,8822
+GCA_000284415,1,0,0,2,0,Rhodospirillum photometricum DSM 122,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Pararhodospirillum,Pararhodospirillum photometricum,GCA_000284415.2,3589
+GCA_000284615,1,1,0,0,1,Marinobacter hydrocarbonoclasticus ATCC 49840,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter nauticus,GCA_000284615.1,3615
+GCA_000294715,0,0,0,2,0,Bartonella quintana RM-11 strain RM_11,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella quintana,GCA_000294715.1,1693
+GCA_000299455,1,1,0,1,1,Escherichia coli O104:H4 str. 2011C-3493,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,GCA_000299455.1,5479
+GCA_000299965,1,0,0,0,0,Cycloclasticus sp. P1,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Cycloclasticus,Cycloclasticus sp. P1,GCA_000299965.1,2303
+GCA_000300005,2,1,0,1,1,Alcanivorax dieselolei B5,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,Alcanivorax dieselolei,GCA_000300005.1,4413
+GCA_000300455,0,0,1,1,2,Kosakonia sacchari SP1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kosakonia,Kosakonia sacchari,GCA_000300455.3,4610
+GCA_000302535,2,1,0,2,0,Acidovorax sp. KKS102,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax sp. KKS102,GCA_000302535.1,4879
+GCA_000304315,1,0,0,2,0,Methylocystis sp. SC2,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylocystaceae,Methylocystis,Methylocystis sp. SC2,GCA_000304315.1,3948
+GCA_000305785,1,1,0,0,1,Simiduia agarivorans SA1 = DSM 21679,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Simiduia,Simiduia agarivorans,GCA_000305785.2,3898
+GCA_000306885,1,0,0,0,0,Wolbachia endosymbiont of Onchocerca ochengi strain wOo,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia,Wolbachia endosymbiont of Onchocerca ochengi,GCA_000306885.1,886
+GCA_000307105,1,0,0,0,0,Desulfobacula toluolica Tol2,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacula,Desulfobacula toluolica,GCA_000307105.1,5160
+GCA_000307145,2,0,0,0,0,Actinobacillus suis H91-0380,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Actinobacillus suis,GCA_000307145.1,2302
+GCA_000311765,2,0,0,2,0,Gluconobacter oxydans H24,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconobacter,Gluconobacter oxydans,GCA_000311765.1,3732
+GCA_000312705,4,0,0,0,0,Anabaena sp. 90,Cyanobacteria,,Nostocales,Nostocaceae,Anabaena,Anabaena sp. 90,GCA_000312705.1,5377
+GCA_000316175,4,0,1,0,1,Pseudomonas sp. UW4,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. UW4,GCA_000316175.1,5541
+GCA_000316515,3,0,0,0,0,Cyanobium gracile PCC 6307,Cyanobacteria,,Synechococcales,Prochlorococcaceae,Cyanobium,Cyanobium gracile,GCA_000316515.1,3262
+GCA_000316575,5,0,0,0,0,Calothrix sp. PCC 7507,Cyanobacteria,,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 7507,GCA_000316575.1,6927
+GCA_000316605,2,0,0,0,0,Leptolyngbya sp. PCC 7376,Cyanobacteria,,Pseudanabaenales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya sp. PCC 7376,GCA_000316605.1,5200
+GCA_000316625,3,0,0,0,0,Nostoc sp. PCC 7107,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc sp. PCC 7107,GCA_000316625.1,5928
+GCA_000316665,7,0,0,0,0,Rivularia sp. PCC 7116,Cyanobacteria,,Nostocales,Rivulariaceae,Rivularia,Rivularia sp. PCC 7116,GCA_000316665.1,7389
+GCA_000316685,1,0,0,0,0,Synechococcus sp. PCC 6312,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. PCC 6312,GCA_000316685.1,3839
+GCA_000317025,4,0,0,0,0,Pleurocapsa sp. PCC 7327,Cyanobacteria,,Pleurocapsales,Hyellaceae,Pleurocapsa,Pleurocapsa sp. PCC 7327,GCA_000317025.1,5223
+GCA_000317045,1,0,0,0,0,Geitlerinema sp. PCC 7407,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Coleofasciculaceae,Geitlerinema,Geitlerinema sp. PCC 7407,GCA_000317045.1,4313
+GCA_000317065,2,0,0,0,0,Pseudanabaena sp. PCC 7367,Cyanobacteria,,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena sp. PCC 7367,GCA_000317065.1,4619
+GCA_000317085,1,0,0,0,0,Synechococcus sp. PCC 7502,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. PCC 7502,GCA_000317085.1,3804
+GCA_000317105,2,0,0,0,0,Oscillatoria acuminata PCC 6304,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria acuminata,GCA_000317105.1,7495
+GCA_000317125,7,0,0,0,0,Chroococcidiopsis thermalis PCC 7203,Cyanobacteria,,Chroococcidiopsidales,Chroococcidiopsidaceae,Chroococcidiopsis,Chroococcidiopsis thermalis,GCA_000317125.1,6978
+GCA_000317145,2,0,0,0,0,Chamaesiphon minutus PCC 6605,Cyanobacteria,,Synechococcales,Chamaesiphonaceae,Chamaesiphon,Chamaesiphon minutus,GCA_000317145.1,7368
+GCA_000317435,3,0,0,0,0,Calothrix sp. PCC 6303,Cyanobacteria,,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 6303,GCA_000317435.1,6332
+GCA_000317475,1,0,0,0,0,Oscillatoria nigro-viridis PCC 7112,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria nigro-viridis,GCA_000317475.1,8289
+GCA_000317535,4,0,0,0,0,Cylindrospermum stagnale PCC 7417,Cyanobacteria,,Nostocales,Nostocaceae,Cylindrospermum,Cylindrospermum stagnale,GCA_000317535.1,7428
+GCA_000317555,2,0,0,0,0,Gloeocapsa sp. PCC 7428,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Chroococcaceae,Gloeocapsa,Gloeocapsa sp. PCC 7428,GCA_000317555.1,5532
+GCA_000317575,3,0,0,0,0,Stanieria cyanosphaera PCC 7437,Cyanobacteria,,Pleurocapsales,Dermocarpellaceae,Stanieria,Stanieria cyanosphaera,GCA_000317575.1,5163
+GCA_000317635,1,0,0,0,0,Halothece sp. PCC 7418,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Aphanothecaceae,Halothece,Halothece sp. PCC 7418,GCA_000317635.1,4076
+GCA_000317655,1,0,0,0,0,Cyanobacterium stanieri PCC 7202,Cyanobacteria,Oscillatoriophycideae,Chroococcales,Geminocystaceae,Cyanobacterium,Cyanobacterium stanieri,GCA_000317655.1,3008
+GCA_000317695,4,0,0,0,0,Anabaena cylindrica PCC 7122,Cyanobacteria,,Nostocales,Nostocaceae,Anabaena,Anabaena cylindrica,GCA_000317695.1,6726
+GCA_000317935,2,0,1,1,0,Bordetella parapertussis Bpp5,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella parapertussis,GCA_000317935.1,4809
+GCA_000318015,1,0,1,1,1,Bordetella bronchiseptica 253,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella bronchiseptica,GCA_000318015.1,5037
+GCA_000319575,1,0,0,0,0,Spiribacter salinus M19-40,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Spiribacter,Spiribacter salinus,GCA_000319575.2,1709
+GCA_000321415,2,1,0,0,0,Thioalkalivibrio nitratireducens DSM 14787,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,Thioalkalivibrio nitratireducens,GCA_000321415.1,3903
+GCA_000325745,2,0,0,0,0,Liberibacter crescens BT-1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Liberibacter,Liberibacter crescens,GCA_000325745.1,1422
+GCA_000327045,0,0,0,1,0,Thioflavicoccus mobilis 8321,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thioflavicoccus,Thioflavicoccus mobilis,GCA_000327045.1,3706
+GCA_000328625,1,0,0,0,0,Halobacteroides halobius DSM 5150,Firmicutes,Clostridia,Halanaerobiales,Halobacteroidaceae,Halobacteroides,Halobacteroides halobius,GCA_000328625.1,2548
+GCA_000330845,3,0,0,0,1,Enterobacteriaceae bacterium strain FGI 57,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,,Enterobacteriaceae bacterium strain FGI 57,GCA_000330845.1,4328
+GCA_000330865,3,1,1,0,2,Serratia marcescens FGI94,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia marcescens,GCA_000330865.1,4414
+GCA_000330885,0,0,0,2,0,Rhizobium tropici CIAT 899,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium tropici,GCA_000330885.1,6614
+GCA_000331025,2,0,0,1,0,Desulfovibrio hydrothermalis AM13 = DSM 14728,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Maridesulfovibrio,Maridesulfovibrio hydrothermalis,GCA_000331025.1,3467
+GCA_000331105,0,0,0,0,1,Fibrella aestuarina strain BUZ 2T,Bacteroidetes,Cytophagia,Cytophagales,Spirosomaceae,Fibrella,Fibrella aestuarina,GCA_000331105.1,5756
+GCA_000331735,0,0,1,0,1,Myxococcus stipitatus DSM 14675,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus stipitatus,GCA_000331735.1,8292
+GCA_000332115,1,0,0,0,0,Nonlabens dokdonensis DSW-6,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,Nonlabens dokdonensis,GCA_000332115.1,3591
+GCA_000341355,0,0,0,2,0,Bartonella australis Aust/NH1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella australis,GCA_000341355.1,1572
+GCA_000341385,0,0,0,3,0,Bartonella vinsonii subsp. berkhoffii str. Winnie,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella vinsonii,GCA_000341385.1,1884
+GCA_000341395,3,0,0,0,1,Desulfocapsa sulfexigens DSM 10523,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfocapsaceae,Desulfocapsa,Desulfocapsa sulfexigens,GCA_000341395.1,3888
+GCA_000341895,2,0,0,0,0,Desulfovibrio piezophilus strain C1TLV30,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Pseudodesulfovibrio,Pseudodesulfovibrio piezophilus,GCA_000341895.1,3634
+GCA_000344805,9,0,1,1,0,Bradyrhizobium oligotrophicum S58,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium oligotrophicum,GCA_000344805.1,7444
+GCA_000346595,1,0,0,0,0,Candidatus Liberibacter asiaticus str. gxpsy,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,GCA_000346595.1,1222
+GCA_000347595,2,0,0,0,0,Bibersteinia trehalosi USDA-ARS-USMARC-192,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Bibersteinia,Bibersteinia trehalosi,GCA_000347595.1,2240
+GCA_000348585,1,1,1,3,1,Xanthomonas axonopodis Xac29-1,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas axonopodis,GCA_000348585.1,4757
+GCA_000349785,1,0,0,0,0,Mannheimia haemolytica USDA-ARS-USMARC-185,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,GCA_000349785.1,2531
+GCA_000349845,5,0,0,1,1,Pseudomonas denitrificans ATCC 13867,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. ATCC 13867,GCA_000349845.1,5159
+GCA_000349945,5,0,0,0,1,Azoarcus sp. KH32C,Proteobacteria,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Azoarcus,Azoarcus sp. KH32C,GCA_000349945.1,5238
+GCA_000349975,0,0,0,1,0,Helicobacter cinaedi ATCC BAA-847,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter cinaedi,GCA_000349975.1,2506
+GCA_000355675,0,1,0,0,1,Thalassolituus oleivorans MIL-1,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Thalassolituus,Thalassolituus oleivorans,GCA_000355675.1,3609
+GCA_000367425,1,1,0,0,0,Raoultella ornithinolytica B6,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,Raoultella ornithinolytica,GCA_000367425.1,5030
+GCA_000376645,1,0,0,0,0,Mannheimia haemolytica M42548,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,GCA_000376645.1,2841
+GCA_000397205,4,1,0,0,1,Pseudomonas protegens CHA0,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,GCA_000397205.1,6227
+GCA_000412675,2,1,1,0,1,Pseudomonas putida NBRC 14164,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas putida,GCA_000412675.1,5448
+GCA_000412695,3,1,0,0,1,Pseudomonas resinovorans NBRC 106553,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas resinovorans,GCA_000412695.1,5856
+GCA_000422085,2,0,0,0,0,Serratia liquefaciens ATCC 27592,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia liquefaciens,GCA_000422085.1,4845
+GCA_000438825,2,1,0,0,0,Serratia plymuthica S13,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia plymuthica,GCA_000438825.1,5026
+GCA_000442595,1,0,0,1,0,Cycloclasticus zancles 7-ME,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Cycloclasticus,Cycloclasticus zancles,GCA_000442595.1,2590
+GCA_000444995,2,0,1,1,0,Paracoccus aminophilus JCM 7686,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus aminophilus,GCA_000444995.1,4680
+GCA_000463345,1,1,1,0,0,Serratia sp. ATCC 39006,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. ATCC 39006,GCA_000463345.2,4707
+GCA_000473305,1,0,0,0,0,Bacteroidales bacterium CF,Bacteroidetes,Bacteroidia,Bacteroidales,,,Bacteroidales bacterium CF,GCA_000473305.1,2317
+GCA_000484535,1,0,0,0,0,Gloeobacter kilaueensis JS1,Cyanobacteria,Gloeobacteria,Gloeobacterales,Gloeobacteraceae,Gloeobacter,Gloeobacter kilaueensis,GCA_000484535.1,4434
+GCA_000485905,1,0,0,0,0,Spiribacter sp. UAH-SP71,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Spiribacter,Spiribacter curvatus,GCA_000485905.1,1869
+GCA_000495505,1,0,0,0,0,Campylobacter sp. 03-427,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter fetus,GCA_000495505.1,1747
+GCA_000504585,0,0,2,1,0,Pandoraea sp. RB-44,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Pandoraea,Pandoraea pnomenusa,GCA_000504585.1,5013
+GCA_000505725,0,0,0,0,1,Francisella noatunensis subsp. orientalis LADL--07-285A,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella orientalis,GCA_000505725.1,2281
+GCA_000511355,1,0,0,0,1,Leisingera methylohalidivorans DSM 14336,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Leisingera,Leisingera methylohalidivorans,GCA_000511355.1,4658
+GCA_000511385,2,0,0,3,0,Phaeobacter gallaeciensis DSM 26640,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Phaeobacter,Phaeobacter gallaeciensis,GCA_000511385.1,4483
+GCA_000512205,1,1,1,2,1,Sphingomonas sanxanigenens DSM 19645 = NX02,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas sanxanigenens,GCA_000512205.2,5833
+GCA_000512355,1,1,0,2,0,Legionella oakridgensis ATCC 33761 = DSM 21215,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella oakridgensis,GCA_000512355.1,3074
+GCA_000513215,3,0,0,0,1,Serratia marcescens subsp. marcescens Db11,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia marcescens,GCA_000513215.1,4743
+GCA_000513295,5,0,0,2,0,Magnetospirillum gryphiswaldense MSR-1 v2,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum gryphiswaldense,GCA_000513295.1,4097
+GCA_000517305,2,1,1,0,3,Pseudomonas cichorii JBC1,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas cichorii,GCA_000517305.1,5089
+GCA_000517425,2,0,3,0,0,Sodalis sp. HS1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Bruguierivoracaceae,Sodalis,Sodalis praecaptivus,GCA_000517425.1,4931
+GCA_000517565,1,0,0,0,0,Desulfurella acetivorans A63,Proteobacteria,Deltaproteobacteria,Desulfurellales,Desulfurellaceae,Desulfurella,Desulfurella acetivorans,GCA_000517565.1,1882
+GCA_000517605,2,0,0,1,1,Rhizobium leguminosarum bv. trifolii WSM1689,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,GCA_000517605.1,6828
+GCA_000520015,2,1,0,0,2,Serratia fonticola RB-25,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Chania,Chania multitudinisentens,GCA_000520015.2,5001
+GCA_000520875,6,0,0,3,1,Rhizobium leguminosarum bv. trifolii CB782,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,GCA_000520875.1,6580
+GCA_000521505,0,0,1,0,1,Advenella mimigardefordensis DPN7,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Advenella,Advenella mimigardefordensis,GCA_000521505.1,4564
+GCA_000522985,0,0,0,0,1,Gemmatimonadetes bacterium KBS708,Gemmatimonadetes,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatirosa,Gemmatirosa kalamazoonesis,GCA_000522985.1,6445
+GCA_000550765,1,0,0,2,0,Gluconacetobacter xylinus E25,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Komagataeibacter,Komagataeibacter xylinus,GCA_000550765.1,3937
+GCA_000576555,1,0,0,0,0,Hymenobacter sp. DY53,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Hymenobacter,Hymenobacter swuensis,GCA_000576555.1,4454
+GCA_000583045,5,0,0,1,0,Ensifer adhaerens OV14,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer adhaerens,GCA_000583045.1,7557
+GCA_000583775,0,0,0,1,0,Campylobacter coli RM4661,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter coli,GCA_000583775.1,2003
+GCA_000583815,0,1,0,0,0,Halorhodospira halochloris str. A,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Halorhodospira,Halorhodospira halochloris,GCA_000583815.1,3223
+GCA_000583875,0,0,1,0,0,Chlamydia sp. 10DC88,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia avium,GCA_000583875.1,973
+GCA_000590475,0,1,0,0,1,Pseudomonas stutzeri strain 28a24,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas stutzeri,GCA_000590475.1,4375
+GCA_000590925,1,0,0,0,0,Roseibacterium elongatum DSM 19469,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Roseibacterium,Roseibacterium elongatum,GCA_000590925.1,3633
+GCA_000597945,2,0,2,0,1,Yersinia enterocolitica LC20,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,GCA_000597945.1,5386
+GCA_000599985,1,0,0,0,1,Gilliamella apicola strain wkB1,Proteobacteria,Gammaproteobacteria,Orbales,Orbaceae,Gilliamella,Gilliamella apicola,GCA_000599985.1,2804
+GCA_000600005,1,0,0,0,2,Snodgrassella alvi wkB2,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Snodgrassella,Snodgrassella alvi,GCA_000600005.1,2300
+GCA_000612075,2,1,0,0,0,Aeromonas hydrophila YL17,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila,GCA_000612075.1,4249
+GCA_000612485,1,0,0,0,0,Bordetella holmesii ATCC 51541,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella holmesii,GCA_000612485.1,3894
+GCA_000612685,1,1,1,0,0,Castellaniella defragrans 65Phen,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Castellaniella,Castellaniella defragrans,GCA_000612685.1,3616
+GCA_000626635,1,0,0,0,0,Draconibacterium orientale strain FH5,Bacteroidetes,Bacteroidia,Marinilabiliales,Prolixibacteraceae,Draconibacterium,Draconibacterium orientale,GCA_000626635.1,4400
+GCA_000632805,0,0,0,1,0,Dyella jiangningensis strain SBZ 3-12,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella jiangningensis,GCA_000632805.1,4828
+GCA_000632985,0,0,0,1,0,Neorickettsia helminthoeca str. Oregon,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Neorickettsia,Neorickettsia helminthoeca,GCA_000632985.1,894
+GCA_000648515,2,1,0,1,0,Citrobacter freundii CFNIH1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter freundii,GCA_000648515.1,5151
+GCA_000661955,1,0,0,0,1,Stenotrophomonas rhizophila strain DSM 14405,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas rhizophila,GCA_000661955.1,4029
+GCA_000689395,1,0,0,0,0,Candidatus Phaeomarinobacter ectocarpi strain Ec32,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Parvibaculaceae,Candidatus Phaeomarinobacter,Candidatus Phaeomarinobacter ectocarpi,GCA_000689395.1,3303
+GCA_000689415,1,0,0,0,0,Pseudomonas knackmussii B13,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas knackmussii,GCA_000689415.1,5800
+GCA_000696485,2,0,0,0,0,Halomonas campaniensis strain LS21,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas campaniensis,GCA_000696485.1,3772
+GCA_000723165,2,1,1,0,2,Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium,Janthinobacterium agaricidamnosum,GCA_000723165.1,5175
+GCA_000723205,1,0,0,0,0,Formosa agariphila KMM 3901,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Formosa,Formosa agariphila,GCA_000723205.1,3598
+GCA_000723505,6,0,0,0,0,Rikenellaceae bacterium M3,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Mucinivorans,Mucinivorans hirudinis,GCA_000723505.1,3027
+GCA_000725345,2,0,0,0,0,Pelosinus sp. UFO1,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,GCA_000725345.1,4843
+GCA_000730245,1,0,0,0,0,endosymbiont of Acanthamoeba sp. UWC8,Proteobacteria,Alphaproteobacteria,Holosporales,Holosporaceae,,endosymbiont of Acanthamoeba sp. UWC8,GCA_000730245.1,1588
+GCA_000730385,2,1,0,0,0,Alteromonas australica strain H17,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas australica,GCA_000730385.1,3840
+GCA_000731315,3,0,0,0,1,Neorhizobium galegae bv. orientalis str. HAMBI 540,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Neorhizobium,Neorhizobium galegae,GCA_000731315.1,6356
+GCA_000737515,1,0,0,0,0,Hymenobacter sp. APR13,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Hymenobacter,Hymenobacter sp. APR13,GCA_000737515.1,4192
+GCA_000737535,2,0,0,0,0,Synechococcus sp. KORDI-100,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. KORDI-100,GCA_000737535.1,3121
+GCA_000737575,3,0,0,0,0,Synechococcus sp. KORDI-49,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. KORDI-49,GCA_000737575.1,2660
+GCA_000737595,2,0,0,0,0,Synechococcus sp. KORDI-52,Cyanobacteria,,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. KORDI-52,GCA_000737595.1,2921
+GCA_000738435,3,0,0,0,0,Planktomarina temperata RCA23,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Planktomarina,Planktomarina temperata,GCA_000738435.1,3249
+GCA_000742835,1,0,0,0,0,Candidatus Paracaedibacter acanthamoebae,Proteobacteria,Alphaproteobacteria,Holosporales,Candidatus Paracaedibacteraceae,Candidatus Paracaedibacter,Candidatus Paracaedibacter acanthamoebae,GCA_000742835.1,2366
+GCA_000743035,0,0,0,3,0,Candidatus Caedibacter acanthamoebae,Proteobacteria,Alphaproteobacteria,Holosporales,Caedimonadaceae,Candidatus Paracaedimonas,Candidatus Paracaedimonas acanthamoebae,GCA_000743035.1,2225
+GCA_000746525,2,0,0,0,0,Pseudomonas alkylphenolia strain KL28,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas alkylphenolica,GCA_000746525.1,5199
+GCA_000746585,1,0,0,1,0,Rickettsiales bacterium Ac37b,Proteobacteria,Alphaproteobacteria,Rickettsiales,,,Rickettsiales bacterium Ac37b,GCA_000746585.1,1847
+GCA_000747525,1,0,0,0,0,Sphingobacterium sp. ML3W,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium sp. ML3W,GCA_000747525.1,4637
+GCA_000756005,2,1,1,1,2,Burkholderia multivorans strain DDS 15A-1,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia multivorans,GCA_000756005.1,6963
+GCA_000757785,3,0,0,0,3,Pluralibacter gergoviae FB2,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Pluralibacter,Pluralibacter gergoviae,GCA_000757785.1,5074
+GCA_000757825,3,0,3,0,1,Cedecea neteri SSMD04,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,Cedecea neteri,GCA_000757825.1,4515
+GCA_000758305,3,0,1,0,2,Cedecea neteri M006,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,Cedecea neteri,GCA_000758305.1,4575
+GCA_000759475,2,0,0,0,1,Pantoea rwandensis ND04,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea rwandensis,GCA_000759475.1,3937
+GCA_000759535,3,0,0,0,2,Pseudomonas cremoricolorata ND07,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas cremoricolorata,GCA_000759535.1,4264
+GCA_000761155,3,0,1,0,0,Pseudomonas rhizosphaerae DSM 16299,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas rhizosphaerae,GCA_000761155.1,4138
+GCA_000763535,0,1,1,0,2,Vibrio coralliilyticus OCN014,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio coralliilyticus,GCA_000763535.2,5330
+GCA_000764535,1,1,0,0,0,Sphingomonas taxi ATCC 55669,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas taxi,GCA_000764535.1,3709
+GCA_000764555,0,0,0,0,1,Francisella sp. FSC1006,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Francisella sp. FSC1006,GCA_000764555.1,1965
+GCA_000775995,0,0,0,1,0,Treponema sp. OMZ 838,Spirochaetes,Spirochaetia,Spirochaetales,Treponemataceae,Treponema,Treponema sp. OMZ 838,GCA_000775995.1,2530
+GCA_000784965,2,0,1,3,1,Pantoea sp. PSNIH2,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea sp. PSNIH2,GCA_000784965.1,4706
+GCA_000788395,1,1,1,0,1,Pseudoalteromonas sp. OCN003,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas piratica,GCA_000788395.1,4391
+GCA_000800255,4,0,1,0,2,Pseudomonas parafulva strain CRS01-1,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas parafulva,GCA_000800255.1,4389
+GCA_000801275,3,1,0,0,2,Vibrio nigripulchritudo strain SnF1,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio nigripulchritudo,GCA_000801275.1,5726
+GCA_000803645,3,1,0,3,0,Sphingopyxis sp. Kp5.2,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis fribergensis,GCA_000803645.1,4917
+GCA_000807275,3,0,0,0,2,Frischella perrara PEB0191,Proteobacteria,Gammaproteobacteria,Orbales,Orbaceae,Frischella,Frischella perrara,GCA_000807275.1,2300
+GCA_000815185,1,0,0,0,0,Xanthomonas sacchari R1,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas sacchari,GCA_000815185.1,4338
+GCA_000815225,1,0,0,0,0,Francisella guangzhouensis 08HL01032,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Allofrancisella,Allofrancisella guangzhouensis,GCA_000815225.1,1542
+GCA_000816845,2,0,1,3,2,Rhizobium gallicum bv. gallicum R602,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium gallicum,GCA_000816845.1,7619
+GCA_000817955,0,1,0,0,1,Geobacter pickeringii G13,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter pickeringii,GCA_000817955.1,3390
+GCA_000818015,0,1,0,0,1,Pseudomonas balearica DSM 6083 DSM6083 (=SP1402),Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas balearica,GCA_000818015.1,4101
+GCA_000819565,2,0,0,6,0,Celeribacter indicus P73,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Celeribacter,Celeribacter indicus,GCA_000819565.1,4971
+GCA_000827125,0,0,0,0,1,Geoalkalibacter subterraneus Red1,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geoalkalibacter,Geoalkalibacter subterraneus,GCA_000827125.1,3624
+GCA_000828475,2,0,0,0,0,Methyloceanibacter caenitepidi Gela4,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Methyloceanibacter,Methyloceanibacter caenitepidi,GCA_000828475.1,3332
+GCA_000828635,3,0,0,0,0,Sulfuritalea hydrogenivorans sk43H DSM22779,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Sterolibacteriaceae,Sulfuritalea,Sulfuritalea hydrogenivorans,GCA_000828635.1,3610
+GCA_000828715,1,0,0,0,0,Winogradskyella sp. PG-2,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Winogradskyella,Winogradskyella sp. PG-2,GCA_000828715.1,3518
+GCA_000828895,1,1,0,0,0,Comamonadaceae bacterium A1,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Serpentinimonas,Serpentinimonas raichei,GCA_000828895.1,2379
+GCA_000828915,1,0,0,0,0,Comamonadaceae bacterium B1,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Serpentinimonas,Serpentinimonas maccroryi,GCA_000828915.1,2409
+GCA_000828975,0,1,0,4,0,Burkholderiales bacterium GJ-E10,Proteobacteria,Betaproteobacteria,Burkholderiales,,,Burkholderiales bacterium GJ-E10,GCA_000828975.1,3187
+GCA_000829415,3,1,1,1,2,Pseudomonas sp. StFLB209,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. StFLB209,GCA_000829415.1,5612
+GCA_000831385,1,0,0,0,0,Nonlabens marinus S1-08,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,Nonlabens marinus,GCA_000831385.1,2783
+GCA_000832305,1,1,0,0,2,Cupriavidus basilensis 4G11,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus basilensis,GCA_000832305.1,7676
+GCA_000833025,0,0,0,0,1,Myroides profundi D25,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides profundi,GCA_000833025.1,3526
+GCA_000968535,3,0,0,1,1,Methylomicrobium alcaliphilum strain 20Z,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylotuvimicrobium,Methylotuvimicrobium alcaliphilum,GCA_000968535.1,4192
+GCA_000969685,1,1,1,1,1,Xanthomonas fuscans subsp. fuscans strain 4834-R,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas citri,GCA_000969685.1,4497
+GCA_000973105,0,0,0,0,1,Zobellia galactanivorans strain Dsij,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Zobellia,Zobellia galactanivorans,GCA_000973105.1,4691
+GCA_001281485,1,0,0,0,0,Altererythrobacter epoxidivorans strain CGMCC 1.7731,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Altererythrobacter,Altererythrobacter epoxidivorans,GCA_001281485.1,2774
+GCA_001298445,3,0,0,0,0,Nostoc piscinale CENA21,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc piscinale,GCA_001298445.1,7262
+GCA_001298525,0,1,0,0,0,Psychrobacter urativorans strain R310.10B,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter urativorans,GCA_001298525.1,2586
+GCA_001305595,1,0,0,0,2,Azospirillum thiophilum strain BV-S,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum thiophilum,GCA_001305595.1,6915
+GCA_001308265,3,0,0,0,0,Celeribacter marinus strain IMCC12053,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Roseobacteraceae,Celeribacter,Celeribacter marinus,GCA_001308265.1,3253
+GCA_001314975,1,0,0,0,0,Bacteroides thetaiotaomicron strain 7330,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron,GCA_001314975.1,5316
+GCA_001315015,4,0,0,0,0,Azospirillum brasilense strain Sp7,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum brasilense,GCA_001315015.1,6081
+GCA_001318345,2,0,0,0,0,Bacteroides cellulosilyticus strain WH2,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus,GCA_001318345.1,5734
+GCA_001412595,1,1,0,0,1,Massilia sp. WG5,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Massilia sp. WG5,GCA_001412595.1,5799
+GCA_001444445,1,0,0,0,0,Prevotella enoeca strain F0113,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella enoeca,GCA_001444445.1,2643
+GCA_001447335,0,1,2,0,0,Aeromonas schubertii strain WL1483,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas schubertii,GCA_001447335.1,4435
+GCA_001455205,1,0,0,0,0,Nitrosomonas ureae strain Nm10,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas ureae,GCA_001455205.1,3428
+GCA_001458695,1,0,0,1,0,Nitrospira sp. ENR4,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,Candidatus Nitrospira inopinata,GCA_001458695.1,3444
+GCA_001547995,2,0,0,0,0,Asaia bogorensis NBRC 16594,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Asaia,Asaia bogorensis,GCA_001547995.1,2896
+GCA_001553605,2,0,0,0,1,Desulfovibrio fairfieldensis strain CCUG 45958,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio fairfieldensis,GCA_001553605.1,3597
+GCA_001553955,0,1,0,0,0,Moraxella osloensis strain CCUG 350,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella osloensis,GCA_001553955.1,2532
+GCA_001584185,1,1,1,0,1,Collimonas pratensis strain Ter91,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Collimonas,Collimonas pratensis,GCA_001584185.1,5498
+GCA_001593245,1,1,2,0,1,Aeromonas veronii strain TH0426,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas veronii,GCA_001593245.1,4671
+GCF_000091785,1,1,0,2,0,Legionella longbeachae NSW150,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella longbeachae,GCF_000091785.1,3825
+GCF_000146265,1,0,0,2,0,Aggregatibacter actinomycetemcomitans D11S-1,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,GCF_000146265.2,2284
+GCF_000172635,2,1,0,0,0,Alteromonas macleodii ATCC 27126,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,GCF_000172635.2,4111
+GCF_000252855,1,0,0,0,0,Riemerella anatipestifer ATCC 11845 = DSM 15868,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Riemerella,Riemerella anatipestifer,GCF_000252855.1,2099
+GCF_000252955,4,0,0,0,2,Xenorhabdus nematophila ATCC 19061,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Xenorhabdus,Xenorhabdus nematophila,GCF_000252955.1,4732
+GCF_000253115,0,1,0,2,0,Thiomonas arsenitoxydans strain 3As,Proteobacteria,Betaproteobacteria,Burkholderiales,,Thiomonas,Thiomonas arsenitoxydans,GCF_000253115.1,3772
+GCF_000284095,0,0,0,1,0,Selenomonas ruminantium subsp. lactilytica TAM6421,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,GCF_000284095.1,3623
+GCF_000300095,2,1,1,3,2,Burkholderia phenoliruptrix BR3459a,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phenoliruptrix,GCF_000300095.1,7462
+GCF_000308235,1,1,0,0,1,Acinetobacter venetianus VE-C3,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter venetianus,GCF_000308235.1,3533
+GCF_000316645,7,0,0,0,0,Nostoc sp. PCC 7524,Cyanobacteria,,Nostocales,Nostocaceae,Nostoc,Nostoc sp. PCC 7524,GCF_000316645.1,6231
+GCF_000347635,0,1,0,0,0,Paraglaciecola psychrophila 170,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Paraglaciecola,Paraglaciecola psychrophila,GCF_000347635.1,5614
+GCF_000347675,0,1,0,3,0,Sphingomonas sp. MM-1,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas sp. MM-1,GCF_000347675.2,4594
+GCF_000400505,0,1,0,0,0,Dickeya paradisiaca NCPPB 2511,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Musicola,Musicola paradisiaca,GCF_000400505.1,4537
+GCF_000474725,2,0,1,2,0,Mesorhizobium ciceri ca181,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium ciceri,GCF_000474725.1,7275
+GCF_000503895,1,0,0,0,0,Hyphomicrobium nitrativorans NL23,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium nitrativorans,GCF_000503895.1,3635
+GCF_000520135,3,0,0,0,1,Rhodovulum sulfidophilum DSM 1374,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sulfidophilum,GCF_000520135.1,4251
+GCF_000577275,1,0,0,3,0,Rhizobium sp. LPU83,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium favelukesii,GCF_000577275.1,7704
+GCF_000597785,1,0,0,0,2,Hafnia alvei FB1,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia,Hafnia alvei,GCF_000597785.2,4427
+GCF_000710505,1,0,0,0,0,Planktothrix agardhii NIVA-CYA 126/8,Cyanobacteria,Oscillatoriophycideae,Oscillatoriales,Microcoleaceae,Planktothrix,Planktothrix agardhii,GCF_000710505.1,4873
+GCF_000725385,0,0,0,0,1,Dyella japonica A8,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella japonica,GCF_000725385.1,4306
+GCF_000746645,1,1,0,0,1,Acinetobacter baumannii strain AB30,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,GCF_000746645.1,4359
+GCF_000756775,0,1,0,0,0,Pseudomonas sp. 20_BN,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas saudiphocaensis,GCF_000756775.1,3459
+GCF_000767465,2,0,0,2,0,Novosphingobium pentaromativorans US6-1,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium pentaromativorans,GCF_000767465.1,5405
+GCF_000767615,0,0,3,0,0,Pandoraea pnomenusa strain DSM-16536,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Pandoraea,Pandoraea pnomenusa,GCF_000767615.1,5044
+GCF_000772105,0,1,1,0,3,Vibrio tubiashii ATCC 19109,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio tubiashii,GCF_000772105.1,5181
+GCF_000934705,1,1,0,0,1,Marinobacter excellens HL-55,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter excellens,GCF_000934705.1,3741
+GCF_000935025,1,1,0,2,0,Sphingomonas sp. WHSC-8,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas hengshuiensis,GCF_000935025.1,4940
+GCF_000940995,2,1,0,0,0,Photobacterium gaetbulicola Gung47,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium gaetbulicola,GCF_000940995.1,5485
+GCF_000953135,0,1,0,1,0,Legionella fallonii LLAP-10 strain ATCC700992,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella fallonii,GCF_000953135.1,3980
+GCF_000953635,0,1,0,1,0,Tatlockia micdadei strain ATCC33218,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Tatlockia,Tatlockia micdadei,GCF_000953635.1,3104
+GCF_000953655,1,1,0,1,0,Legionella hackeliae strain ATCC35250,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella hackeliae,GCF_000953655.1,3329
+GCF_000953695,1,1,0,0,2,Aliivibrio wodanis strain 06/09/139,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,Aliivibrio wodanis,GCF_000953695.1,4261
+GCF_000953735,3,1,0,0,2,Moritella viscosa,Proteobacteria,Gammaproteobacteria,Alteromonadales,Moritellaceae,Moritella,Moritella viscosa,GCF_000953735.1,4711
+GCF_000954135,0,1,1,1,0,Ralstonia mannitolilytica strain SN82F48,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,Ralstonia mannitolilytica,GCF_000954135.1,4890
+GCF_000959245,6,1,2,0,4,Burkholderia ubonensis MSMB22,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia ubonensis,GCF_000959245.1,6887
+GCF_000959725,1,1,1,2,2,Burkholderia gladioli strain ATCC 10248,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia gladioli,GCF_000959725.1,8354
+GCF_000961515,1,1,1,0,3,Burkholderia fungorum strain ATCC BAA-463,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum,GCF_000961515.1,8869
+GCF_000964245,1,1,0,0,0,Teredinibacter sp. 1162T.S.0a.05,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,,Cellvibrionaceae bacterium 1162T.S.0a.05,GCF_000964245.1,3843
+GCF_000964565,2,1,1,0,0,Yersinia ruckeri strain Big Creek 74,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia ruckeri,GCF_000964565.1,3490
+GCF_000967425,1,0,0,2,0,Rhizobium sp. strain NT-26,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.,GCF_000967425.1,4643
+GCF_000968195,2,0,0,0,3,Xenorhabdus doucetiae strain FRM16 = DSM 17909,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Xenorhabdus,Xenorhabdus doucetiae,GCF_000968195.1,4017
+GCF_000971565,4,0,0,2,1,Agrobacterium tumefaciens strain Ach5,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens,GCF_000971565.1,5542
+GCF_000972865,1,0,0,1,0,Pseudoxanthomonas suwonensis strain J1,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,Pseudoxanthomonas suwonensis,GCF_000972865.1,3513
+GCF_000974425,2,0,0,0,2,Spirosoma radiotolerans strain DG5A,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Spirosoma,Spirosoma radiotolerans,GCF_000974425.1,6144
+GCF_000981545,1,0,0,0,0,Filomicrobium sp. Y,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Filomicrobium,Candidatus Filomicrobium marinum,GCF_000981545.1,4069
+GCF_000982825,1,0,0,0,2,Cronobacter sakazakii strain ATCC 29544,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,GCF_000982825.1,4691
+GCF_001006005,5,1,1,0,1,Serratia fonticola strain DSM 4576,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia fonticola,GCF_001006005.1,5578
+GCF_001007935,1,0,0,0,0,Nitrosomonas communis strain Nm2,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Nitrosomonadaceae,Nitrosomonas,Nitrosomonas communis,GCF_001007935.1,4441
+GCF_001008165,0,0,0,3,0,Altererythrobacter atlanticus strain 26DY36,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Croceibacterium,Croceibacterium atlanticum,GCF_001008165.2,3369
+GCF_001010285,2,0,1,0,5,Photorhabdus temperata subsp. thracensis strain DSM 15199,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus thracensis,GCF_001010285.1,5076
+GCF_001011155,1,0,0,0,0,Hoeflea sp. IMCC20628,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Hoeflea,Hoeflea sp. IMCC20628,GCF_001011155.1,5073
+GCF_001017775,0,0,1,0,0,Pandoraea thiooxydans strain DSM 25325,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Pandoraea,Pandoraea thiooxydans,GCF_001017775.1,4342
+GCF_001020955,1,1,0,0,0,Thioalkalivibrio versutus strain D301,Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Thioalkalivibrio,Thioalkalivibrio versutus,GCF_001020955.1,2818
+GCF_001021935,3,0,1,0,2,Xanthomonas translucens pv. undulosa strain Xtu 4699,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas translucens,GCF_001021935.1,4183
+GCF_001021975,1,0,0,0,1,Chryseobacterium gallinarum strain DSM 27622,Bacteroidetes,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gallinarum,GCF_001021975.1,4383
+GCF_001022135,1,0,0,0,2,Kluyvera intermedia strain CAV1151,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kluyvera,Kluyvera intermedia,GCF_001022135.1,6373
+GCF_001022195,2,1,0,2,0,Klebsiella oxytoca strain CAV1374,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella oxytoca,GCF_001022195.1,7362
+GCF_001028625,1,0,0,1,0,Altererythrobacter marensis strain KCTC 22370,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Pelagerythrobacter,Pelagerythrobacter marensis,GCF_001028625.1,2741
+GCF_001028705,1,1,0,2,0,Croceicoccus naphthovorans strain PQ-2,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Croceicoccus,Croceicoccus naphthovorans,GCF_001028705.1,4056
+GCF_001040945,3,0,1,0,2,Herbaspirillum seropedicae strain Z67,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum seropedicae,GCF_001040945.1,5039
+GCF_001043175,0,1,0,0,0,Marinobacter psychrophilus strain 20041,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter psychrophilus,GCF_001043175.1,3828
+GCF_001077815,1,0,0,1,0,Erythrobacter sp. s21-N3,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Aurantiacibacter,Aurantiacibacter atlanticus,GCF_001077815.1,3049
+GCF_001078275,1,1,0,0,0,Bordetella hinzii strain F582,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella hinzii,GCF_001078275.1,4617
+GCF_001185205,2,0,0,1,0,Devosia sp. H5989,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Devosiaceae,Devosia,Devosia sp. H5989,GCF_001185205.1,4559
+GCF_001190755,1,0,0,1,0,Campylobacter ureolyticus RIGS 9880,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter ureolyticus,GCF_001190755.1,1685
+GCF_001190925,3,0,0,0,1,Azoarcus sp. CIB,Proteobacteria,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Azoarcus,Azoarcus sp. CIB,GCF_001190925.1,4901
+GCF_001191005,3,1,1,0,1,Massilia sp. NR 4-1,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,Massilia sp. NR 4-1,GCF_001191005.1,5457
+GCF_001262035,0,0,0,0,1,Aggregatibacter aphrophilus strain W10433,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter aphrophilus,GCF_001262035.1,2264
+GCF_001267925,1,0,1,0,0,Herbaspirillum hiltneri N3,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum hiltneri,GCF_001267925.1,4698
+GCF_001273775,1,0,0,0,0,Nitrospira moscoviensis strain NSP M-1,Nitrospirae,Nitrospira,Nitrospirales,Nitrospiraceae,Nitrospira,Nitrospira moscoviensis,GCF_001273775.1,4793
+GCF_001273795,1,0,0,0,0,Candidatus Rickettsia amblyommii strain Ac37,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,Rickettsia amblyommatis,GCF_001273795.1,1840
+GCF_001278035,2,1,0,5,0,Sphingopyxis sp. 113P3,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis sp. 113P3,GCF_001278035.1,4681
+GCF_001278055,1,0,0,0,1,Desulfuromonas sp. WTL,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadaceae,Desulfuromonas,Desulfuromonas soudanensis,GCF_001278055.1,3869
+GCF_001278715,1,1,0,0,0,Acinetobacter sp. TTH0-4,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp. TTH0-4,GCF_001278715.1,2868
+GCF_001281405,0,0,0,1,0,Candidatus Bartonella ancashi strain 20.00,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bartonellaceae,Bartonella,Bartonella ancashensis,GCF_001281405.1,1361
+GCF_001281465,1,1,2,0,0,Cupriavidus gilardii CR3,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus gilardii,GCF_001281465.1,5412
+GCF_001298465,1,0,0,0,0,Campylobacter concisus strain ATCC 33237,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter concisus,GCF_001298465.1,1907
+GCF_001307195,1,1,0,0,1,Acinetobacter sp. 114,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter equi,GCF_001307195.1,2882
+GCF_001310255,0,1,0,4,0,Brevundimonas sp. DS20,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas sp. DS20,GCF_001310255.1,3484
+GCF_001314305,0,0,0,1,0,Stenotrophomonas acidaminiphila strain ZAC14D2_NAIMI4_2,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas acidaminiphila,GCF_001314305.1,3803
+GCF_001314325,1,1,0,3,0,Sphingopyxis macrogoltabida strain 203,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis macrogoltabida,GCF_001314325.1,5753
+GCF_001402915,1,0,0,0,0,Devosia sp. DDS-1 strain A16,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Devosiaceae,Devosia,Devosia sp. A16,GCF_001402915.1,4988
+GCF_001411495,1,1,0,0,2,Burkholderia cepacia ATCC 25416,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia,GCF_001411495.1,8573
+GCF_001412575,3,1,0,0,0,Limnohabitans sp. 103DPR2,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Limnohabitans,Limnohabitans sp. 103DPR2,GCF_001412575.1,2836
+GCF_001431725,5,0,1,0,1,Halomonas huangheensis strain BJGMM-B45,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas huangheensis,GCF_001431725.1,4295
+GCF_001433395,1,1,1,0,2,Bordetella sp. N,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,Bordetella sp. N,GCF_001433395.1,6129
+GCF_001433715,2,1,0,0,0,Alteromonas stellipolaris LMG 21856,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas stellipolaris,GCF_001433715.1,4091
+GCF_001442515,0,0,1,1,2,Lysobacter enzymogenes strain C3,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,Lysobacter enzymogenes,GCF_001442515.1,5462
+GCF_001442535,3,0,1,1,0,Lysobacter antibioticus strain ATCC 29479,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,Lysobacter antibioticus,GCF_001442535.1,5138
+GCF_001442785,1,0,1,1,0,Lysobacter capsici strain 55,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,Lysobacter capsici,GCF_001442785.1,5772
+GCF_001444365,0,1,0,0,0,Colwellia sp. MT41,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia sp. MT41,GCF_001444365.1,3949
+GCF_001444405,1,1,0,0,0,Pseudoalteromonas phenolica strain KCTC 12086,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas phenolica,GCF_001444405.1,4340
+GCF_001455325,1,1,0,0,1,Pseudoalteromonas issachenkonii strain KCTC 12958,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas issachenkonii,GCF_001455325.1,3759
+GCF_001457475,3,2,0,1,1,Achromobacter xylosoxidans strain NCTC10807,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter xylosoxidans,GCF_001457475.1,6319
+GCF_001460635,0,0,0,1,0,Helicobacter typhlonius strain 1,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter typhlonius,GCF_001460635.1,2070
+GCF_001482385,2,1,0,0,0,Pseudoalteromonas rubra strain SCSIO 6842,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas rubra,GCF_001482385.1,5224
+GCF_001483385,1,0,0,0,0,Tenacibaculum dicentrarchi strain AY7486TD,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,Tenacibaculum dicentrarchi,GCF_001483385.1,2586
+GCF_001483845,0,0,0,3,0,Campylobacter coli strain OR12,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter coli,GCF_001483845.1,2351
+GCF_001484065,2,0,0,4,0,Pannonibacter phragmitetus strain 31801,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Stappiaceae,Pannonibacter,Pannonibacter phragmitetus,GCF_001484065.1,5380
+GCF_001484935,1,1,0,1,0,Acinetobacter johnsonii XBB1,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii,GCF_001484935.1,4168
+GCF_001499655,0,0,1,0,0,Protochlamydia naegleriophila strain KNic,Chlamydiae,Chlamydiia,Parachlamydiales,Parachlamydiaceae,Candidatus Protochlamydia,Candidatus Protochlamydia naegleriophila,GCF_001499655.1,2933
+GCF_001518815,1,1,0,0,1,Pseudomonas oryzihabitans strain USDA-ARS-USMARC-56511,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas oryzihabitans,GCF_001518815.1,4451
+GCF_001518835,3,1,0,0,1,Leclercia adecarboxylata strain USDA-ARS-USMARC-60222,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Leclercia,Leclercia adecarboxylata,GCF_001518835.1,4511
+GCF_001543265,3,0,0,0,1,Pseudomonas fragi strain P121,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fragi,GCF_001543265.1,4821
+GCF_001547775,1,0,0,0,0,Aggregatibacter actinomycetemcomitans NUM4039,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans,GCF_001547775.1,2554
+GCF_001548015,3,0,0,0,0,Methylobacterium aquaticum strain MA-22A,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium aquaticum,GCF_001548015.1,7667
+GCF_001548055,2,0,0,0,0,Sulfurospirillum cavolei strain UCH003,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Sulfurospirillaceae,Sulfurospirillum,Sulfurospirillum cavolei,GCF_001548055.1,2719
+GCF_001548075,3,0,0,0,1,Rhodovulum sulfidophilum strain DSM 2351,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sulfidophilum,GCF_001548075.1,4697
+GCF_001551895,3,0,0,3,0,Agrobacterium tumefaciens strain S33,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens,GCF_001551895.1,5445
+GCF_001558255,3,1,0,0,0,Grimontia hollisae strain ATCC 33564,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Grimontia,Grimontia hollisae,GCF_001558255.1,3839
+GCF_001558415,2,1,0,0,1,Vibrio fluvialis strain ATCC 33809,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio fluvialis,GCF_001558415.1,4509
+GCF_001558735,3,0,1,0,1,Pantoea agglomerans strain FDAARGOS_160,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans,GCF_001558735.1,4745
+GCF_001562115,2,1,0,0,0,Alteromonas stellipolaris strain LMG 21861,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas stellipolaris,GCF_001562115.1,4327
+GCF_001578105,2,0,0,1,0,Martelella sp. AD-3,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Aurantimonadaceae,Martelella,Martelella sp. AD-3,GCF_001578105.1,4849
+GCF_001583435,3,2,1,0,0,Endozoicomonas montiporae CL-33,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Endozoicomonadaceae,Endozoicomonas,Endozoicomonas montiporae,GCF_001583435.1,5309
+GCF_001597285,2,1,0,0,1,Pseudomonas alcaligenes strain NEB 585,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas alcaligenes,GCF_001597285.1,4100
+GCF_001606025,1,1,0,0,0,Psychrobacter alimentarius strain PAMC 27889,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter alimentarius,GCF_001606025.1,2879
+GCF_001610975,1,1,0,1,0,Sphingopyxis terrae NBRC 15098,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis terrae,GCF_001610975.1,3943
+GCF_001636015,1,0,0,0,0,Moraxella ovis strain 199/55,Proteobacteria,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella ovis,GCF_001636015.1,2374
+GCF_001641285,1,0,0,1,1,Dyella thiooxydans strain ATSB10,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella thiooxydans,GCF_001641285.1,3857
+GCF_001652485,2,0,0,2,0,Ochrobactrum pseudogrignonense strain K8,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella pseudogrignonensis,GCF_001652485.1,4975
+GCF_001652565,2,0,0,8,0,Shinella sp. HZN7,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Shinella,Shinella sp. HZN7,GCF_001652565.1,7408
+GCF_001653755,1,0,0,0,0,Dokdonia donghaensis DSW-1,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,Dokdonia donghaensis,GCF_001653755.1,2989
+GCF_900011245,3,0,0,0,0,Bradyrhizobium sp. strain BF49_genome1,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium sp.,GCF_900011245.1,7754
+GCF_900086555,1,0,0,0,0,Neisseria weaveri strain NCTC13585,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria weaveri,GCF_900086555.1,2257
+GCF_900087055,0,1,0,0,1,Plesiomonas shigelloides strain NCTC10360,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Plesiomonas,Plesiomonas shigelloides,GCF_900087055.1,3037
