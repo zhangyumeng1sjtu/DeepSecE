@@ -1,0 +1,121 @@
+---
+title: "UpsetPlot"
+author: "Yumeng Zhang"
+date: "11/11/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(UpSetR)
+```
+
+*Legionella pneumophila* subsp. *pneumophila* str. Philadelphia 1 | T4SE
+
+```{r}
+predictions <- read.csv('data/NC_002942.5/features_.csv')
+pdf('pdf/Lp-T4SE-upsetplot.pdf', width=6, height=3)
+upset(predictions,
+      sets = c("Exp.", "DeepSecE", "DeepSecE.0.6.", "T4SEfinder"),
+      main.bar.color = "#c6cccc",
+      sets.bar.color = "#c6cccc",
+      queries = list(list(query = intersects, params = list("DeepSecE", "DeepSecE.0.6."), color="orange", active = T)),
+      order.by = "freq", 
+      decreasing = T, 
+      mb.ratio = c(0.55, 0.45),
+      number.angles = 1, 
+      text.scale = 1, 
+      point.size = 2.5, 
+      line.size = 0.8,
+      sets.x.label = 'Num. of effectors'
+)
+dev.off()
+```
+
+T3SE: *Pseudomonas syringae* pv. tomato str. DC3000 &  *Salmonella enterica* subsp. *enterica* serovar Typhimurium
+
+```{r}
+library(patchwork)
+predictions <- read.csv('data/NC_004578.1/features_.csv')
+pdf('pdf/Ps-T3SE-upsetplot.pdf', width=6, height=3)
+upset(predictions,
+      sets = c("Exp.", "DeepSecE", "DeepSecE.0.6."),
+      main.bar.color = "#c6cccc",
+      sets.bar.color = "#c6cccc",
+      queries = list(list(query = intersects, params = list("DeepSecE", "DeepSecE.0.6."), color="orange", active = T)),
+      order.by = "freq", 
+      decreasing = T, 
+      mb.ratio = c(0.55, 0.45),
+      number.angles = 1, 
+      text.scale = 1, 
+      point.size = 2.5, 
+      line.size = 0.8,
+      sets.x.label = 'Num. of effectors'
+)
+dev.off()
+```
+
+```{r}
+predictions <- read.csv('data/NC_003197.2/features_.csv')
+pdf('pdf/Se-T3SE-upsetplot.pdf', width=6, height=3)
+upset(predictions,
+      sets = c("Exp.", "DeepSecE", "DeepSecE.0.6."),
+      main.bar.color = "#c6cccc",
+      sets.bar.color = "#c6cccc",
+      queries = list(list(query = intersects, params = list("DeepSecE", "DeepSecE.0.6."), color="orange", active = T)),
+      order.by = "freq", 
+      decreasing = T, 
+      mb.ratio = c(0.55, 0.45),
+      number.angles = 1, 
+      text.scale = 1, 
+      point.size = 2.5, 
+      line.size = 0.8,
+      sets.x.label = 'Num. of effectors'
+)
+dev.off()
+```
+
+T6SE: *Pseudomonas aeruginosa* PAO1 &  *Vibrio cholerae* O1 biovar El Tor str. N16961 chromosome II 
+
+```{r}
+predictions <- read.csv('data/NC_002516.2/features_.csv')
+pdf('pdf/Pa-T6SE-upsetplot.pdf', width=6, height=3)
+upset(predictions,
+      sets = c("Exp.", "DeepSecE", "DeepSecE.0.6."),
+      main.bar.color = "#c6cccc",
+      sets.bar.color = "#c6cccc",
+      queries = list(list(query = intersects, params = list("DeepSecE", "DeepSecE.0.6."), color="orange", active = T)),
+      order.by = "freq", 
+      decreasing = T, 
+      mb.ratio = c(0.55, 0.45),
+      number.angles = 1, 
+      text.scale = 1, 
+      point.size = 2.5, 
+      line.size = 0.8,
+      sets.x.label = 'Num. of effectors'
+)
+dev.off()
+```
+
+```{r}
+predictions <- read.csv('data/NC_002506.1/features_.csv')
+pdf('pdf/Vc-T6SE-upsetplot.pdf', width=6, height=3)
+upset(predictions,
+      sets = c("Exp.", "DeepSecE", "DeepSecE.0.6."),
+      main.bar.color = "#c6cccc",
+      sets.bar.color = "#c6cccc",
+      queries = list(list(query = intersects, params = list("DeepSecE", "DeepSecE.0.6."), color="orange", active = T)),
+      order.by = "freq", 
+      decreasing = T, 
+      mb.ratio = c(0.55, 0.45),
+      number.angles = 1, 
+      text.scale = 1, 
+      point.size = 2.5, 
+      line.size = 0.8,
+      sets.x.label = 'Num. of effectors'
+)
+dev.off()
+```
