@@ -1,4 +1,4 @@
-name,score,identity,evalue,accession
+name,Score,Identity,evalue,accession
 T6SE-WP_000526403.1,0.9512,43.373,3.76e-11,NC_002506.1
 T6SE-WP_000078819.1,0.5399,64.286,1.58e-29,NC_002506.1
 T6SE-WP_000849740.1,0.734,34.286,0.74,NC_002506.1
