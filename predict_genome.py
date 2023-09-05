@@ -43,7 +43,7 @@ def main(args):
 if __name__ == '__main__':
 
     parser = ArgumentParser(
-        description="Predict secretion systems and secreted effectors from ordered protein sequences in a FASTA file.")
+        description="Predict secretion systems and secreted substrate proteins from ordered protein sequences in a FASTA file.")
     
     parser.add_argument('--fasta_path', required=True, type=str,
                         help='input ordered protein sequences.')
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     parser.add_argument('--num_workers', default=4, type=int,
                         help='num. of workers used in MacSyFinder. (default: 4)')
     parser.add_argument('--save_attn', action='store_true',
-                        help='save the sequence attention of effectors.')
+                        help='save the sequence attention of secretion proteins.')
     parser.add_argument('--no_cuda', action='store_true',
                         help='add when CUDA is not available.')
 

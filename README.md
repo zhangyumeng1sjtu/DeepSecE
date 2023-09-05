@@ -1,6 +1,6 @@
 # DeepSecE
 
-Implementation of Effector-specific Transformer model used in secretion effector prediction in Gram-negative bacteria. DeepSecE achieves state-of-the-art performance in multi-class effector prediction leveraging the power of  pre-trained protein language model [ESM-1b](https://github.com/facebookresearch/esm). An additional transformer layer enhances the understanding of secreted patterns. It also provides a rapid pipeline to identify type I-IV and VI secretion systems with corresponding effectors.
+Implementation of Secretion-specific Transformer model used in secretion protein prediction in Gram-negative bacteria. DeepSecE achieves state-of-the-art performance in multi-class prediction leveraging the power of pre-trained protein language model [ESM-1b](https://github.com/facebookresearch/esm). An additional transformer layer enhances the understanding of secreted patterns. It also provides a rapid pipeline to identify type I-IV and VI secretion systems with corresponding substrate proteins.
 
 ![](summary.png)
 
@@ -13,9 +13,10 @@ We choose various model architecture with different pre-trained models and train
 |                    |                              |      Valid      |      Test      |      Valid      |      Test      |      Valid      |      Test      |
 |          /          |           PSSM+CNN           |      0.799      |      0.822      |      0.712      |      0.724      |      0.752      |      0.774      |
 |      TAPEBert      |        Linear probing        |      0.816      |      0.838      |      0.764      |      0.770      |      0.802      |      0.822      |
+|       ESM-1b       |        XGBoost        |      0.869      |      0.887      |      0.809      |      0.816      |      0.865      |      0.872      |
 |       ESM-1b       |        Linear probing        |      0.876      |      0.870      |      0.841      |      0.810      |      0.880      |      0.871      |
-|       ESM-1b       |          Finetuning          |      0.878      |      0.850      |      0.846      |      0.808      |      0.887      | 0.883 |
-|       ESM-1b       | Effector-specific transformer | **0.883** | **0.898** | **0.848** | **0.849** | **0.892** |      **0.885**      |
+|       ESM-1b       |          Fine-tuning          |      0.878      |      0.850      |      0.846      |      0.808      |      0.887      | 0.883 |
+|       ESM-1b       | Secretion-specific transformer | **0.883** | **0.898** | **0.848** | **0.849** | **0.892** |      **0.885**      |
 
 ## Set up
 
@@ -52,7 +53,7 @@ If you want to plot the sequence attention, you should install package `logomark
 pip install logomaker
 ```
 
-If you want to predict secretion systems and effectors, you should install `macsyfinder` and `hmmer` first. Meanwhile, you need to download the TXSS profiles from [here](https://tool2-mml.sjtu.edu.cn/DeepSecE/TXSS_profiles.tar.gz), and decompress it into data directory.
+If you want to predict secretion systems and substrate proteins, you should install `macsyfinder` and `hmmer` first. Meanwhile, you need to download the TXSS profiles from [here](https://tool2-mml.sjtu.edu.cn/DeepSecE/TXSS_profiles.tar.gz), and decompress it into data directory.
 
 ```shell
 pip install macsyfinder
@@ -93,19 +94,19 @@ done
 
  Parameters:
 
-- `--model` train a effector transformer or finetue a ESM-1b model.
+- `--model` train a transformer or finetune a ESM-1b model.
 - `--data_dir` directory that stores training data (default: ./data).
 - `--num_layers` numbers of trainable transformer layer. (default: 1)
-- `--num_heads` numbers of attention heads in effector-specific transformer (default: 4).
+- `--num_heads` numbers of attention heads in secretion-specific transformer (default: 4).
 - `--patience` patience for early stopping used in training.
 - `--lr_schedular` learning rate schedular [step, consine].
 - `--log_dir` directory that stores training outputs (default: logs).
 
 ### Prediction
 
-You can predict your interested type of secreted effectors only or predict secretion systems and corresponding effectors  from scratch.
+You can predict your interested type of secreted proteins only or predict secretion systems and corresponding substrate proteins from scratch.
 
-#### Predict secretion effector
+#### Predict secretion protein
 
 ```shell
 python predict.py --fasta_path examples/Test.fasta \
@@ -120,10 +121,10 @@ Parameters:
 - `--model_location` path to the model weights (download from [here](https://tool2-mml.sjtu.edu.cn/DeepSecE/checkpoint.pt)).
 - `--secretion_systems` type(s) of secretion system to predict (default: I II III IV VI).
 - `--out_dir` directory that stores prediction outputs.
-- `--save_attn` add to save sequence attention of effector.
+- `--save_attn` add to save sequence attention of secreted protein.
 - `--no_cuda` add when CUDA is not available.
 
-#### Predict secretion system and effectors
+#### Predict secretion system and substrate protein
 
 **Note:** Make sure the input file is **ordered protein sequences coded in a bacterial genome**.
 
@@ -140,14 +141,14 @@ Parameters:
 - `--model_location` path to the model weights (download from [here](https://tool2-mml.sjtu.edu.cn/DeepSecE/checkpoint.pt)).
 - `--data_dir` directory that stores TXSS profiles (download from [here](https://tool2-mml.sjtu.edu.cn/DeepSecE/TXSS_profiles.tar.gz)).
 - `--out_dir` directory that stores prediction outputs.
-- `--save_attn` add to save sequence attention of effector.
+- `--save_attn` add to save sequence attention of secreted protein.
 - `--no_cuda` add when CUDA is not available.
 
-It takes about 5 minutes to predict effectors from a bacterial genome containing 3000 proteion coding sequences on a NVIDIA GeForce RTX 2080 Super GPU.
+It takes about 5 minutes to predict secreted proteins from a bacterial genome containing 3000 proteion coding sequences on a NVIDIA GeForce RTX 2080 Super GPU.
 
 ### Plot attention
 
-If you save the attention output of the putative effectors (add `--save_attn`), you can run `python scripts /plot_attention.py [directory of prediction output]` to plot the saliency map from attention, and infer potentially import regions related to protein secretion.
+If you save the attention output of the putative secreted proteins (add `--save_attn`), you can run `python scripts /plot_attention.py [directory of prediction output]` to plot the saliency map from attention, and infer potentially import regions related to protein secretion.
 
 ## Contact
 

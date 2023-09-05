@@ -56,8 +56,8 @@ def predict(model, fasta, batch_size, device, outdir, pos_labels, save_attn=Fals
             prob = torch.softmax(out, dim=1)
             _, pred = torch.max(prob, 1)
 
-            probs.append(prob)
-            preds.append(pred)
+            probs.append(prob.detach().cpu().numpy())
+            preds.append(pred.detach().cpu().numpy())
 
             for i, str in enumerate(strs):
                 name = labels[i].split()[0]
@@ -67,13 +67,13 @@ def predict(model, fasta, batch_size, device, outdir, pos_labels, save_attn=Fals
                         seq = str[:1020]
                         avg_attn = attn[i, :, :len(seq), :len(seq)].sum(0).mean(0)
                         attn_dict[name] = avg_attn
-                    record = SeqRecord(Seq(str), id=name, description=f'putative type {pred_label} secreted effector')
+                    record = SeqRecord(Seq(str), id=name, description=f'putative type {pred_label} secreted protein')
                     seq_records.append(record)
                 names.append(name)
                 lengths.append(len(str))
 
-    probs = torch.cat(probs).cpu().numpy()
-    preds = torch.cat(preds).cpu().numpy()
+    probs = np.concatenate(probs)
+    preds = np.concatenate(preds)
 
     probs_non_effector = probs[:, 0]
     probs_t1se = probs[:, 1]
@@ -84,7 +84,7 @@ def predict(model, fasta, batch_size, device, outdir, pos_labels, save_attn=Fals
     systems = list(map(lambda x: predicted_labels[x], preds))
     scores = [prob[idx] for prob, idx in zip(probs, preds)]
 
-    result = pd.DataFrame({'name': names, 'system': systems, 'score': scores, 'NonEffector.prob': probs_non_effector, 'T1SE.prob': probs_t1se,
+    result = pd.DataFrame({'name': names, 'system': systems, 'score': scores, 'NonSecreted.prob': probs_non_effector, 'T1SE.prob': probs_t1se,
                           'T2SE.prob': probs_t2se, 'T3SE.prob': probs_t3se, 'T4SE.prob': probs_t4se, 'T6SE.prob': probs_t6se, 'length': lengths})
     result = result.round(4)
 
@@ -92,13 +92,13 @@ def predict(model, fasta, batch_size, device, outdir, pos_labels, save_attn=Fals
     # result.to_csv(os.path.join(outdir, 'predictions.csv'), index=False)
 
     effector = result[result['system'].isin(pos_labels)]
-    effector.to_csv(os.path.join(outdir, 'effectors.csv'), index=False)
+    effector.to_csv(os.path.join(outdir, 'results.csv'), index=False)
 
-    print(f"Writing putative effectors in {os.path.join(outdir, 'effectors.fasta')}")
-    SeqIO.write(seq_records, os.path.join(outdir, 'effectors.fasta'), 'fasta')
+    print(f"Writing putative secreted proteins in {os.path.join(outdir, 'secreted-proteins.fasta')}")
+    SeqIO.write(seq_records, os.path.join(outdir, 'secreted-proteins.fasta'), 'fasta')
 
     if save_attn:
-        print(f"Saving effector attention in {os.path.join(outdir, 'attn.npz')}")
+        print(f"Saving secreted protein attention in {os.path.join(outdir, 'attn.npz')}")
         np.savez(os.path.join(outdir, 'attn.npz'), **attn_dict)
 
 
@@ -139,7 +139,7 @@ def main(args):
 if __name__ == '__main__':
 
     parser = ArgumentParser(
-        description="Predict secreted effectors from protein sequences in a FASTA file.")
+        description="Predict secreted substrate proteins from protein sequences in a FASTA file.")
     
     parser.add_argument('--batch_size', default=1, type=int,
                         help='bacth size used in prediction. (default: 1)')
@@ -148,11 +148,11 @@ if __name__ == '__main__':
     parser.add_argument('--model_location', required=True, type=str,
                         help='path to the model weights.')
     parser.add_argument('--secretion_systems', nargs='+', default=['I', 'II', 'III', 'IV', 'VI'],
-                        help="types of secreted effectors requiring prediction. (default: I II III IV VI)")
+                        help="types of secreted proteins requiring prediction. (default: I II III IV VI)")
     parser.add_argument('--out_dir', default='./', type=str,
                         help='output directory of prediction results.')
     parser.add_argument('--save_attn', action='store_true',
-                        help='save the sequence attention of effectors.')
+                        help='save the sequence attention of secreted proteins.')
     parser.add_argument('--no_cuda', action='store_true',
                         help='add when CUDA is not available.')
 

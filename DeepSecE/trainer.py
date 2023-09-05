@@ -104,9 +104,9 @@ def test(model, iterator, criterion, device, return_array=False):
             prob = torch.softmax(logits, dim=1)
             _, pred = torch.max(prob, 1)
 
-            truth.append(y)
-            probs.append(prob)
-            preds.append(pred)
+            truth.append(y.detach().cpu().numpy())
+            probs.append(prob.detach().cpu().numpy())
+            preds.append(pred.detach().cpu().numpy())
 
             loss = criterion(logits, y)
 
@@ -115,9 +115,9 @@ def test(model, iterator, criterion, device, return_array=False):
 
     avg_loss = avg_loss / data_size
 
-    truth = torch.cat(truth).cpu().numpy()
-    probs = torch.cat(probs).cpu().numpy()
-    preds = torch.cat(preds).cpu().numpy()
+    truth = np.concatenate(truth)
+    probs = np.concatenate(probs)
+    preds = np.concatenate(preds)
 
     metrics_dict = metrics(truth, preds, probs)
 

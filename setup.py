@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="DeepSecE",
-    version="0.1.0",
-    description="A Deep Learning Framework for Multi-class Secreted Effector Prediction in Gram-negative Bacteria.",
+    version="0.1.2",
+    description="A Deep Learning Framework for Multi-class Secreted Protein Prediction in Gram-negative Bacteria.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Yumeng Zhang",
