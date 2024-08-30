@@ -148,7 +148,7 @@ It takes about 5 minutes to predict secreted proteins from a bacterial genome co
 
 ### Plot attention
 
-If you save the attention output of the putative secreted proteins (add `--save_attn`), you can run `python scripts /plot_attention.py [directory of prediction output]` to plot the saliency map from attention, and infer potentially import regions related to protein secretion.
+If you save the attention output of the putative secreted proteins (add `--save_attn`), you can run `python scripts/plot_attention.py [directory of prediction output]` to plot the saliency map from attention, and infer potentially import regions related to protein secretion.
 
 ## Contact
 
